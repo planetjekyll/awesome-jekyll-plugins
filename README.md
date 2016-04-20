@@ -49,3 +49,15 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 
 ## Converters
 
+
+
+
+## Meta
+
+**License**
+
+The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**Questions? Comments?**
+
+Post them to the [jekyll talk forum](http://talk.jekyllrb.com). Thanks!
