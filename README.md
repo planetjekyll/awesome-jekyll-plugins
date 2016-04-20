@@ -88,7 +88,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 
 ## Multi Language
 
-- [**Jekyll-Polyglot**](https://github.com/untra/polyglot) ★36,  gem: [jekyll-polyglot](https://rubygems.org/gems/jekyll-polyglot) by Samuel Volin -- Multilingual and I18n support tool
+- [**Jekyll-Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- Multilingual and I18n support tool
 
 
 
