@@ -1,7 +1,10 @@
+Awesome Series @ Planet Jekyll
+
+[Jekyll](https://github.com/planetjekylly/awesome-jekyll) • 
+[Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
 
 
 # Awesome Jekyll Plugins
-
 
 A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 
