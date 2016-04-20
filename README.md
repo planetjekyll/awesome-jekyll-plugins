@@ -23,7 +23,6 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [**Jekyll Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- Gets the first image of a post. Useful to list your posts with images or to add [twitter cards](https://dev.twitter.com/cards/overview) to your site.
 - [**Jekyll-Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- This generator replaces all german umlauts (äöüß) case sensitive with html.
 - [**Jekyll::Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★4, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- Pagination Generator for Jekyll Category.
-- [**Jekyll-Polyglot**](https://github.com/untra/polyglot) -- Multilingual and I18n support tool
 
 **Scripts**
 
@@ -87,6 +86,9 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [**Org-mode Converter**](https://gist.github.com/abhiyerra/7377603) -- Emacs Org-mode converter for Jekyll.
 
 
+## Multi Language
+
+- [**Jekyll-Polyglot**](https://github.com/untra/polyglot) ★36,  gem: [jekyll-polyglot](https://rubygems.org/gems/jekyll-polyglot) by Samuel Volin -- Multilingual and I18n support tool
 
 
 
