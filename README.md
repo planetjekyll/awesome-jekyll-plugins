@@ -53,6 +53,41 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 ## Converters
 
 
+### Gems
+
+- [Textile converter](https://github.com/jekyll/jekyll-textile-converter) ★1, gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter) -- Convert `.textile` files into HTML. Also includes the `textilize` Liquid filter.
+- [Slim plugin](https://github.com/slim-template/jekyll-slim) ★25, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags.
+- [AsciiDoc Plugin](https://github.com/asciidoctor/jekyll-asciidoc) ★84, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
+- [jekyll-commonmark](https://github.com/pathawks/jekyll-commonmark) ★1, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
+
+
+### Scripts
+
+- [Jade plugin](https://github.com/snappylabs/jade-jekyll-plugin) ★45 by John Papandriopoulos -- Jade converter for Jekyll.
+- [Markdown References](https://github.com/olov/jekyll-references) ★27 by Olov Lassus -- Keep all your markdown reference-style link definitions in one \_references.md file.
+- [ReStructuredText Converter](https://github.com/xdissent/jekyll-rst) ★42 -- Converts ReST documents to HTML with Pygments syntax highlighting.
+- [Jekyll-pandoc-plugin](https://github.com/dsanson/jekyll-pandoc-plugin) ★48 -- Use pandoc for rendering markdown.
+- [Jekyll-pandoc-multiple-formats](https://github.com/fauno/jekyll-pandoc-multiple-formats) ★58 -- Use pandoc to generate your site in multiple formats. Supports pandoc’s markdown extensions.
+- [Customized Kramdown Converter](https://github.com/mvdbos/kramdown-with-pygments) ★31 -- Enable Pygments syntax highlighting for Kramdown-parsed fenced code blocks.
+- [Bigfootnotes Plugin](https://github.com/TheFox/jekyll-bigfootnotes) ★1 -- Enables big footnotes for Kramdown.
+- [Lazy Tweet Embedding](https://github.com/takuti/jekyll-lazy-tweet-embedding) ★14 -- Automatically convert tweet urls into twitter cards.
+
+
+### Gist Pasties
+
+- [HAML plugin by Sam Z](https://gist.github.com/517556) -- HAML converter for Jekyll.
+- [HAML-Sass Converter by Adam Pearson](https://gist.github.com/481456) -- Simple HAML-Sass converter for Jekyll. [Fork](https://gist.github.com/528642) by Sam X.
+- [Sass SCSS Converter by Mark Wolfe](https://gist.github.com/960150) -- Sass converter which uses the new CSS compatible syntax, based Sam X's fork above.
+- [LESS Converter by Jason Graham](https://gist.github.com/639920) -- Convert LESS files to CSS.
+- [LESS Converter by Josh Brown](https://gist.github.com/760265) -- Simple LESS converter.
+- [Upcase Converter by Blake Smith](https://gist.github.com/449463) -- An example Jekyll converter.
+- [CoffeeScript Converter by phaer](https://gist.github.com/959938) -- A CoffeeScript to Javascript converter.
+- [Stylus Converter](https://gist.github.com/988201) -- Convert .styl to .css.
+- [Transform Layouts](https://gist.github.com/1472645) -- Allows HAML layouts (you need a HAML Converter plugin for this to work).
+- [Org-mode Converter](https://gist.github.com/abhiyerra/7377603) -- Emacs Org-mode converter for Jekyll.
+
+
+
 
 
 ## Meta
