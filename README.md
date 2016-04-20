@@ -14,7 +14,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 
 ## Generators
 
-### Gems
+**Gems**
 
 - [**Emoji for Jekyll**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- Seamlessly enable emoji for all posts and pages.
 - [**Compass integration for Jekyll**](https://github.com/mscharley/jekyll-compass) ★51, gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- Easily integrate Compass and Sass with your Jekyll website.
@@ -25,7 +25,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [**Jekyll::Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★4, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- Pagination Generator for Jekyll Category.
 
 
-### Scripts
+**Scripts**
 
 - [**Sitemap.xml Generator**](https://github.com/kinnetica/jekyll-plugins) ★202 by Michael Levin -- Generates a sitemap.xml file by traversing all of the available posts and pages.
 - [**Full-text search**](https://github.com/PascalW/jekyll_indextank) ★141 by Pascal Widdershoven -- Adds full-text search to your Jekyll site with a plugin and a bit of JavaScript.
@@ -43,7 +43,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [**AMP-Jekyll**](https://github.com/juusaw/amp-jekyll) ★31 by Juuso Mikkonen -- Generate Accelerated Mobile Pages of Jekyll posts.
 
 
-### Gist Pasties
+**Gist Pasties**
 
 - [**ArchiveGenerator**](https://gist.github.com/707909) by Ilkka Laukkanen -- Uses [this archive page](https://gist.github.com/707020) to generate archives.
 - [**LESS.js Generator**](https://gist.github.com/642739) by Andy Fowler -- Renders LESS.js files during generation.
@@ -53,7 +53,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 ## Converters
 
 
-### Gems
+**Gems**
 
 - [**Textile converter**](https://github.com/jekyll/jekyll-textile-converter) ★1, gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter) -- Convert `.textile` files into HTML. Also includes the `textilize` Liquid filter.
 - [**Slim plugin**](https://github.com/slim-template/jekyll-slim) ★25, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags.
@@ -61,7 +61,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [**jekyll-commonmark**](https://github.com/pathawks/jekyll-commonmark) ★1, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
 
 
-### Scripts
+**Scripts**
 
 - [**Jade plugin**](https://github.com/snappylabs/jade-jekyll-plugin) ★45 by John Papandriopoulos -- Jade converter for Jekyll.
 - [**Markdown References**](https://github.com/olov/jekyll-references) ★27 by Olov Lassus -- Keep all your markdown reference-style link definitions in one \_references.md file.
@@ -73,7 +73,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [**Lazy Tweet Embedding**](https://github.com/takuti/jekyll-lazy-tweet-embedding) ★14 -- Automatically convert tweet urls into twitter cards.
 
 
-### Gist Pasties
+**Gist Pasties**
 
 - [**HAML plugin**](https://gist.github.com/517556) by Sam Z -- HAML converter for Jekyll.
 - [**HAML-Sass Converter**](https://gist.github.com/481456) by Adam Pearson -- Simple HAML-Sass converter for Jekyll. [Fork](https://gist.github.com/528642) by Sam X.
