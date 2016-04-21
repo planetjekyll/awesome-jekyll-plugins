@@ -66,7 +66,8 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
 - [**Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
-- [**i18n_tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★1 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
+- [**i18n Tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★1 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
+- [**localization**](https://github.com/blackwinter/jekyll-localization) ★53 (gem: [jekyll-localization](https://rubygems.org/gems/jekyll-localization))  --  plugin that adds localization features to the rendering engine.
 
 
 ## Search
@@ -82,6 +83,19 @@ _(Auto-)Included w/ "Standard" Install_
 **Extensions**
 
 - [**Planet**](https://github.com/feedreader/jekyll-planet) ★6 (gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto)
+
+
+## Bibliography & Citiations
+
+**Gems**
+
+- [**Scholar**](https://github.com/inukshuk/jekyll-scholar) ★328 (gem: [jekyll-scholar](https://rubygems.org/gems/jekyll-scholar)) by Sylvester Keil  -- extensions for the blogging scholar.
+
+**Scripts**
+- [**Scholar Extras**](https://github.com/jgoodall/jekyll-scholar-extras) ★17  by John Goodall  -- extras for jekyll-scholar
+- [**Bib**](https://github.com/pablooliveira/bibjekyll) ★28 -- Render BibTeX-formatted bibliographies/citations included in posts and pages using bibtex2html.
+- [**Citation**](https://github.com/archome/jekyll-citation) ★36 -- Render BibTeX-formatted bibliographies/citations included in posts and pages (pure Ruby).
+
 
 
 ## Generators
@@ -160,15 +174,15 @@ _(Auto-)Included w/ "Standard" Install_
 
 **Gems**
 
-- [**Jekyll-timeago**](https://github.com/markets/jekyll-timeago) ★44 (gem: [jekyll-timeago](https://rubygems.org/gems/jekyll-timeago)) -- Converts a time value to the time ago in words.
+- [**timeago**](https://github.com/markets/jekyll-timeago) ★44 (gem: [jekyll-timeago](https://rubygems.org/gems/jekyll-timeago)) -- Converts a time value to the time ago in words.
 - [**pluralize**](https://github.com/bdesham/pluralize) ★15 (gem: [liquid_pluralize](https://rubygems.org/gems/liquid_pluralize)) by Benjamin Esham -- Easily combine a number and a word into a grammatically-correct amount like “1 minute” or “2 minute**s**”.
 - [**reading_time**](https://github.com/bdesham/reading_time) ★50 (gem: [liquid_reading_time](https://rubygems.org/gems/liquid_reading_time)) by Benjamin Esham -- Count words and estimate reading time for a piece of text, ignoring HTML elements that are unlikely to contain running text.
-- [**jekyll-toc**](https://github.com/toshimaru/jekyll-toc) ★5  (gem: [jekyll-toc](https://rubygems.org/gems/jekyll-toc))-- A liquid filter plugin for Jekyll which generates a table of contents.
-- [**Jekyll-Smartify**](https://github.com/pathawks/jekyll-smartify) ★4 (gem: [jekyll-smartify](https://rubygems.org/gems/jekyll-smartify)) by Pat Hawks -- SmartyPants filter. Make &quot;quotes&quot; &ldquo;curly&rdquo;
+- [**toc**](https://github.com/toshimaru/jekyll-toc) ★5  (gem: [jekyll-toc](https://rubygems.org/gems/jekyll-toc))-- A liquid filter plugin for Jekyll which generates a table of contents.
+- [**Smartify**](https://github.com/pathawks/jekyll-smartify) ★4 (gem: [jekyll-smartify](https://rubygems.org/gems/jekyll-smartify)) by Pat Hawks -- SmartyPants filter. Make &quot;quotes&quot; &ldquo;curly&rdquo;
 - [**liquid-md5**](https://github.com/pathawks/liquid-md5) ★3 (gem: [liquid-md5](https://rubygems.org/gems/liquid-md5)) by Pat Hawks  -- Returns an MD5 hash. Helpful for generating Gravatars in templates
-- [**jekyll-roman**](https://github.com/paulrobertlloyd/jekyll-roman) ★2  (gem: [jekyll-roman](https://rubygems.org/gems/jekyll-roman)) by Paul Robert Lloyd -- A liquid filter for Jekyll that converts numbers into Roman numerals
-- [**Jekyll::Typogrify**](https://github.com/myles/jekyll-typogrify) ★5 (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) by Myles Braithwaite -- A Jekyll plugin that brings the functions of typogruby.
-- [**Jekyll Email Protect**](https://github.com/vwochnik/jekyll-email-protect) ★13 (gem: [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect)) by Vincent Wochnik -- Email protection liquid filter for Jekyll
+- [**roman**](https://github.com/paulrobertlloyd/jekyll-roman) ★2  (gem: [jekyll-roman](https://rubygems.org/gems/jekyll-roman)) by Paul Robert Lloyd -- A liquid filter for Jekyll that converts numbers into Roman numerals
+- [**Typogrify**](https://github.com/myles/jekyll-typogrify) ★5 (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) by Myles Braithwaite -- A Jekyll plugin that brings the functions of typogruby.
+- [**Email Protect**](https://github.com/vwochnik/jekyll-email-protect) ★13 (gem: [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect)) by Vincent Wochnik -- Email protection liquid filter for Jekyll
 
 
 
@@ -179,11 +193,11 @@ _(Auto-)Included w/ "Standard" Install_
 - [**i18n_filter**](https://github.com/gacha/gacha.id.lv/blob/master/_plugins/i18n_filter.rb) -- Liquid filter to use I18n localization.
 - [**Smilify**](https://github.com/SaswatPadhi/jekyll_smilify) ★6 by Saswat Padhi -- Convert text emoticons in your content to themeable smiley pics.
 - [**Table of Content Generator**](https://github.com/dafi/jekyll-toc-generator) ★63 by Davide Ficano -- Generate the HTML code containing a table of content (TOC), the TOC can be customized in many way, for example you can decide which pages can be without TOC.
-- [**jekyll-humanize**](https://github.com/23maverick23/jekyll-humanize) ★20 by Ryan Morrissey -- This is a port of the Django app humanize which adds a "human touch" to data. Each method represents a Fluid type filter that can be used in your Jekyll site templates. Given that Jekyll produces static sites, some of the original methods do not make logical sense to port (e.g. naturaltime).
-- [**Jekyll-Ordinal**](https://github.com/PatrickC8t/Jekyll-Ordinal) ★9  -- Jekyll liquid filter to output a date ordinal such as "st", "nd", "rd", or "th".
+- [**humanize**](https://github.com/23maverick23/jekyll-humanize) ★20 by Ryan Morrissey -- This is a port of the Django app humanize which adds a "human touch" to data. Each method represents a Fluid type filter that can be used in your Jekyll site templates. Given that Jekyll produces static sites, some of the original methods do not make logical sense to port (e.g. naturaltime).
+- [**Ordinal**](https://github.com/PatrickC8t/Jekyll-Ordinal) ★9  -- Jekyll liquid filter to output a date ordinal such as "st", "nd", "rd", or "th".
 - [**Deprecated articles keeper**](https://github.com/kzykbys/JekyllPlugins) ★5 by Kazuya Kobayashi -- A simple Jekyll filter which monitor how old an article is.
-- [**Jekyll-jalali**](https://github.com/mehdisadeghi/jekyll-jalali) ★4 by Mehdi Sadeghi -- A simple Gregorian to Jalali date converter filter.
-- [**Jekyll Thumbnail Filter**](https://github.com/matallo/jekyll-thumbnail-filter) ★10 by Carlos Matallín -- Related posts thumbnail filter.
+- [**jalali**](https://github.com/mehdisadeghi/jekyll-jalali) ★4 by Mehdi Sadeghi -- A simple Gregorian to Jalali date converter filter.
+- [**Thumbnail Filter**](https://github.com/matallo/jekyll-thumbnail-filter) ★10 by Carlos Matallín -- Related posts thumbnail filter.
 
 
 **Gist Pasties**
@@ -223,8 +237,6 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Embed.ly Client**](https://github.com/robb/jekyll-embedly-client) ★24 by Robert Böhnke -- Autogenerate embeds from URLs using oEmbed.
 - [**FlickrSetTag**](https://github.com/tsmango/jekyll_flickr_set_tag) ★50 by Thomas Mango -- Generates image galleries from Flickr sets.
 - [**Tweet Tag**](https://github.com/scottwb/jekyll-tweet-tag) ★71  by Scott W. Bradley -- Liquid tag for Embedded Tweets using Twitter’s shortcodes.
-- [**Bib**](https://github.com/pablooliveira/bibjekyll) ★28 -- Render BibTeX-formatted bibliographies/citations included in posts and pages using bibtex2html.
-- [**citation**](https://github.com/archome/jekyll-citation) ★36 -- Render BibTeX-formatted bibliographies/citations included in posts and pages (pure Ruby).
 - [**Dribbble Set Tag**](https://github.com/ericdfields/Jekyll-Dribbble-Set-Tag) ★18 -- Builds Dribbble image galleries from any user.
 - [**GalleryTag**](https://github.com/redwallhp/JekyllGalleryTag) ★55 -- Generates thumbnails from a directory of images and displays them in a grid.
 - [**Image Tag**](https://github.com/robwierzbowski/jekyll-image-tag) ★82 -- Better images for Jekyll. Save image presets, generate resized images, and add classes, alt text, and other attributes.
