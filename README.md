@@ -273,6 +273,57 @@ _(Auto-)Included w/ "Standard" Install_
 
 
 
+
+## Plugin Collections
+
+**Scripts**
+
+- [**Pluginsive Design**](https://github.com/recurser/jekyll-plugins) ★198 -- Plugins to generate Project pages from GitHub readmes, a Category page, and a Sitemap generator.
+- [**Company website and blog plugins**](https://github.com/flatterline/jekyll-plugins) ★137 by Flatterline --  Portfolio/project page generator, team/individual page generator, an author bio liquid tag for use on posts, and a few other smaller plugins.
+- [**Plugins**](https://github.com/aucor/jekyll-plugins) ★28 by Aucor -- Plugins for trimming unwanted newlines/whitespace and sorting pages by weight attribute.
+
+
+## Other
+
+**Gems**
+
+- [**tagging-related_posts**](https://github.com/toshimaru/jekyll-tagging-related_posts) ★5 (gem: [jekyll-tagging-related_posts](https://rubygems.org/gems/jekyll-tagging-related_posts)) -- related_posts function based on tags
+- [**rendering**](https://github.com/blackwinter/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- plugin to provide alternative rendering engines.
+- [**pagination**](https://github.com/blackwinter/jekyll-pagination) ★36 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator.
+- [**tagging**](https://github.com/pattex/jekyll-tagging) ★194 (gem: [jekyll-tagging](https://rubygems.org/gems/jekyll-tagging)) -- plugin to automatically generate a tag cloud and tag pages.
+- [**Asset Pipeline Reborn**](https://github.com/kitsched/japr) ★39 (gem: [japr](https://rubygems.org/gems/japr)) - Powerful asset pipeline that collects, converts and compresses JavaScript and CSS assets.
+- [**minibundle**](https://github.com/tkareine/jekyll-minibundle) ★35 (gem: [jekyll-minibundle](https://rubygems.org/gems/jekyll-minibundle)) -- Asset bundling and cache busting using external minification tool of your choice. No gem dependencies.
+- [**minifier**](https://github.com/digitalsparky/jekyll-minifier) ★27 (gem: [jekyll-minifier](https://rubygems.org/gems/jekyll-minifier)) -- Minifies HTML, XML, CSS, and Javascript both inline and as separate files utilising yui-compressor and htmlcompressor.
+- [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★2 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- Adds a `deploy` sub-command
+- [**Official Contentful Plugin**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
+- [**paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★0 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- Sell your posts in various formats for cryptocurrencies.
+- [**Hawkins**](https://github.com/awood/hawkins) ★4 (gem: [hawkins](https://rubygems.org/gems/hawkins)) -- Adds a `liveserve` sub-command to Jekyll that incorporates LiveReload into your pages while you preview them.  No more hitting the refresh button in your browser!
+- [**Autoprefixer**](https://github.com/vwochnik/jekyll-autoprefixer) ★0 (gem: [jekyll-autoprefixer](https://rubygems.org/gems/jekyll-autoprefixer))  -- Autoprefixer integration for Jekyll
+
+**Scripts**
+
+- [**ditaa-ditaa**](https://github.com/tmthrgd/ditaa-ditaa) ★9 by Tom Thorogood -- a drastic revision of ditaa that renders diagrams drawn using ASCII art into PNG images.
+- [**Pygments Cache Path**](https://github.com/rsim/blog.rayapps.com/blob/master/_plugins/pygments_cache_patch.rb) ★14  by Raimonds Simanovskis -- Plugin to cache syntax-highlighted code from Pygments.
+- [**Related Posts**](https://github.com/LawrenceWoodman/related_posts-jekyll_plugin) ★72  by Lawrence Woodman -- Overrides `site.related_posts` to use categories to assess relationship.
+- [**asset_bundler**](https://github.com/moshen/jekyll-asset_bundler) ★98 -- Bundles and minifies JavaScript and CSS.
+- [**Singlepage**](https://github.com/JCB-K/singlepage-jekyll) ★46 by Jacob Klapwijk -- Turns Jekyll into a dynamic one-page website.
+- [**generator**](https://github.com/robwierzbowski/generator-jekyllrb) ★606 -- A generator that wraps Jekyll in Yeoman, a tool collection and workflow for building modern web apps.
+- [**grunt**](https://github.com/dannygarcia/grunt-jekyll) ★230 -- A straightforward Grunt plugin
+- [**postfiles**](https://github.com/indirect/jekyll-postfiles) ★37 -- Add `_postfiles` directory and {% raw %}`{{ postfile }}`{% endraw %} tag so the files a post refers to will always be right there inside your repo.
+- [**A layout that compresses HTML**](https://github.com/penibelst/jekyll-compress-html) ★210 -- GitHub Pages compatible, configurable way to compress HTML files on site build.
+- [**CO₂**](https://github.com/wdenton/jekyll-co2) ★1 -- Generates HTML showing the monthly change in atmospheric CO₂ at the Mauna Loa observatory in Hawaii.
+- [**remote-include**](https://github.com/knorthfield/remote-include) ★6 -- Includes files using remote URLs
+- [**views router**](https://bitbucket.org/nyufac/jekyll-views-router) -- Simple router between generator plugins and templates.
+
+**Gist Pasties**
+
+- [**Draft/Publish Plugin**](https://gist.github.com/49630)  by Michael Ivey -- Save posts as drafts
+- [**Growl Notification Generator**](https://gist.github.com/490101)  by Tate Johnson -- Send Jekyll notifications to Growl
+- [**Growl Notification Hook**](https://gist.github.com/525267) by Tate Johnson -- Better alternative to the above, but requires his "hook" fork
+- [**Tiered Archives**](https://gist.github.com/88cda643aa7e3b0ca1e5)  by Eli Naeher -- Create tiered template variable that allows you to group archives by year and month
+- [**File compressor**](https://gist.github.com/2758691) -- Compress HTML and JavaScript files on site build
+
+
 ## Meta
 
 **License**
