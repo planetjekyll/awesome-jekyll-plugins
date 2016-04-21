@@ -128,14 +128,14 @@ _(Auto-)Included w/ Jekyll_
 **Gems**
 
 - [**Jekyll-timeago**](https://github.com/markets/jekyll-timeago) ★44 (gem: [jekyll-timeago](https://rubygems.org/gems/jekyll-timeago)) -- Converts a time value to the time ago in words.
-- [**pluralize**](https://github.com/bdesham/pluralize) ★15 by Benjamin Esham (gem: [liquid_pluralize](https://rubygems.org/gems/liquid_pluralize)) -- Easily combine a number and a word into a grammatically-correct amount like “1 minute” or “2 minute**s**”.
-- [**reading_time**](https://github.com/bdesham/reading_time) ★50 by Benjamin Esham (gem: [liquid_reading_time](https://rubygems.org/gems/liquid_reading_time)) -- Count words and estimate reading time for a piece of text, ignoring HTML elements that are unlikely to contain running text.
-- [**jekyll-toc**](https://github.com/toshimaru/jekyll-toc) ★5   (gem: [jekyll-toc](https://rubygems.org/gems/jekyll-toc))-- A liquid filter plugin for Jekyll which generates a table of contents.
-- [**Jekyll-Smartify**](https://github.com/pathawks/jekyll-smartify) ★4 by Pat Hawks (gem: [jekyll-smartify](https://rubygems.org/gems/jekyll-smartify))  -- SmartyPants filter. Make &quot;quotes&quot; &ldquo;curly&rdquo;
-- [**liquid-md5**](https://github.com/pathawks/liquid-md5) ★3 by Pat Hawks (gem: [liquid-md5](https://rubygems.org/gems/liquid-md5)) -- Returns an MD5 hash. Helpful for generating Gravatars in templates
-- [**jekyll-roman**](https://github.com/paulrobertlloyd/jekyll-roman) ★2 by Paul Robert Lloyd (gem: [jekyll-roman](https://rubygems.org/gems/jekyll-roman)) -- A liquid filter for Jekyll that converts numbers into Roman numerals
-- [**Jekyll::Typogrify**](https://github.com/myles/jekyll-typogrify) ★5 by Myles Braithwaite (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) -- A Jekyll plugin that brings the functions of typogruby.
-- [**Jekyll Email Protect**](https://github.com/vwochnik/jekyll-email-protect) ★13 by Vincent Wochnik (gem: [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect)) -- Email protection liquid filter for Jekyll
+- [**pluralize**](https://github.com/bdesham/pluralize) ★15 (gem: [liquid_pluralize](https://rubygems.org/gems/liquid_pluralize)) by Benjamin Esham -- Easily combine a number and a word into a grammatically-correct amount like “1 minute” or “2 minute**s**”.
+- [**reading_time**](https://github.com/bdesham/reading_time) ★50 (gem: [liquid_reading_time](https://rubygems.org/gems/liquid_reading_time)) by Benjamin Esham -- Count words and estimate reading time for a piece of text, ignoring HTML elements that are unlikely to contain running text.
+- [**jekyll-toc**](https://github.com/toshimaru/jekyll-toc) ★5  (gem: [jekyll-toc](https://rubygems.org/gems/jekyll-toc))-- A liquid filter plugin for Jekyll which generates a table of contents.
+- [**Jekyll-Smartify**](https://github.com/pathawks/jekyll-smartify) ★4 (gem: [jekyll-smartify](https://rubygems.org/gems/jekyll-smartify)) by Pat Hawks -- SmartyPants filter. Make &quot;quotes&quot; &ldquo;curly&rdquo;
+- [**liquid-md5**](https://github.com/pathawks/liquid-md5) ★3 (gem: [liquid-md5](https://rubygems.org/gems/liquid-md5)) by Pat Hawks  -- Returns an MD5 hash. Helpful for generating Gravatars in templates
+- [**jekyll-roman**](https://github.com/paulrobertlloyd/jekyll-roman) ★2  (gem: [jekyll-roman](https://rubygems.org/gems/jekyll-roman)) by Paul Robert Lloyd -- A liquid filter for Jekyll that converts numbers into Roman numerals
+- [**Jekyll::Typogrify**](https://github.com/myles/jekyll-typogrify) ★5 (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) by Myles Braithwaite -- A Jekyll plugin that brings the functions of typogruby.
+- [**Jekyll Email Protect**](https://github.com/vwochnik/jekyll-email-protect) ★13 (gem: [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect)) by Vincent Wochnik -- Email protection liquid filter for Jekyll
 
 
 
