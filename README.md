@@ -20,19 +20,11 @@ _Plugins by Team Jekyll_
 
 _(Auto-)Included w/ Jekyll_
 
-- **#GitHub Pages** - [**Jekyll Sass Converter**](https://github.com/jekyll/jekyll-sass-converter) ★45 (gem: [jekyll-sass-converter](https://rubygems.org/gems/jekyll-sass-converter)) -- A Sass converter for Jekyll
-- **#GitHub Pages** - [**Jekyll Watch**](https://github.com/jekyll/jekyll-watch) ★30 (gem: [jekyll-watch](https://rubygems.org/gems/jekyll-watch)) -- Rebuild your Jekyll site when a file changes with the `--watch` switch
+- [**Jekyll Sass Converter**](https://github.com/jekyll/jekyll-sass-converter) ★45 (gem: [jekyll-sass-converter](https://rubygems.org/gems/jekyll-sass-converter)) -- A Sass converter for Jekyll
+- [**Jekyll Watch**](https://github.com/jekyll/jekyll-watch) ★30 (gem: [jekyll-watch](https://rubygems.org/gems/jekyll-watch)) -- Rebuild your Jekyll site when a file changes with the `--watch` switch
 
 
 **Optional Gems**
-
-
-- [**jekyll-archives**](https://github.com/jekyll/jekyll-archives) ★111 (gem: [jekyll-archives](https://rubygems.org/gems/jekyll-archives)) -- Archive pages for your Jekyll tags and categories
-- [**jekyll-assets**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- Asset pipelines for Jekyll
-- [**jekyll-compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- Streamline your writing in Jekyll with these commands
-- [**jekyll-import**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "jekyll import" command for importing from various blogs to Jekyll format
-
-<!-- break -->
 
 - **#GitHub Pages** - [**jekyll-feed**](https://github.com/jekyll/jekyll-feed) ★206 (gem: [jekyll-feed](https://rubygems.org/gems/jekyll-feed)) -- a Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts
 - **#GitHub Pages** - [**jekyll-gist**](https://github.com/jekyll/jekyll-gist) ★61 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists in Jekyll sites
@@ -40,6 +32,15 @@ _(Auto-)Included w/ Jekyll_
 - **#GitHub Pages** - [**jekyll-paginate**](https://github.com/jekyll/jekyll-paginate) ★38 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- Pagination Generator for Jekyll
 - **#GitHub Pages** - [**jekyll-redirect-from**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- Seamlessly specify multiple redirections URLs for your pages and posts
 - **#GitHub Pages** - [**jekyll-seo-tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content
+
+
+<!-- break -->
+
+- [**jekyll-archives**](https://github.com/jekyll/jekyll-archives) ★111 (gem: [jekyll-archives](https://rubygems.org/gems/jekyll-archives)) -- Archive pages for your Jekyll tags and categories
+- [**jekyll-assets**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- Asset pipelines for Jekyll
+- [**jekyll-compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- Streamline your writing in Jekyll with these commands
+- [**jekyll-import**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "jekyll import" command for importing from various blogs to Jekyll format
+
 
 
 
