@@ -6,35 +6,36 @@ Awesome Series @ Planet Jekyll
 
 # Awesome Jekyll Plugins
 
-A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
+A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.) adding converters, generators, filters & tags,
+importers, new commands & switches, and more.
 
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
-## Official Jekyll Plugins
+## Official Plugins
 
 _Plugins by Team Jekyll_
 
 **Core / Built-in Gems**
 
-_(Auto-)Included w/ Jekyll_
+_(Auto-)Included w/ "Standard" Install_
 
-- [**Jekyll Sass Converter**](https://github.com/jekyll/jekyll-sass-converter) ★45 (gem: [jekyll-sass-converter](https://rubygems.org/gems/jekyll-sass-converter)) -- A Sass converter for Jekyll
-- [**Jekyll Watch**](https://github.com/jekyll/jekyll-watch) ★30 (gem: [jekyll-watch](https://rubygems.org/gems/jekyll-watch)) -- Rebuild your Jekyll site when a file changes with the `--watch` switch
+- [**Sass Converter**](https://github.com/jekyll/jekyll-sass-converter) ★45 (gem: [jekyll-sass-converter](https://rubygems.org/gems/jekyll-sass-converter)) -- a Sass converter
+- [**Watch**](https://github.com/jekyll/jekyll-watch) ★30 (gem: [jekyll-watch](https://rubygems.org/gems/jekyll-watch)) -- rebuild your site when a file changes with the `--watch` switch
 
 
 **Optional Gems**
 
-- **#GitHub Pages** - [**Jekyll Feed**](https://github.com/jekyll/jekyll-feed) ★206 (gem: [jekyll-feed](https://rubygems.org/gems/jekyll-feed)) -- a Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts
-- **#GitHub Pages** - [**Jekyll::Gist**](https://github.com/jekyll/jekyll-gist) ★61 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists in Jekyll sites
-- **#GitHub Pages** - [**Jekyll Mentions**](https://github.com/jekyll/jekyll-mentions) ★71 (gem: [jekyll-mentions](https://rubygems.org/gems/jekyll-mentions)) -- @mentionable support for your Jekyll site
-- **#GitHub Pages** - [**Jekyll::Paginate**](https://github.com/jekyll/jekyll-paginate) ★38 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- Pagination Generator for Jekyll
-- **#GitHub Pages** - [**JekyllRedirectFrom**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- Seamlessly specify multiple redirections URLs for your pages and posts
-- **#GitHub Pages** - [**Jekyll SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content
-- **#GitHub Pages** - [**Jekyll Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★270 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-- **#GitHub Pages** - [**Jemoji**](https://github.com/jekyll/jemoji) ★141 (gem: [jemoji](https://rubygems.org/gems/jemoji)) -- GitHub-flavored emoji plugin for Jekyll
-- **#GitHub Pages** - [**github-metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`
+- [**Feed**](https://github.com/jekyll/jekyll-feed) ★206 (gem: [jekyll-feed](https://rubygems.org/gems/jekyll-feed)) -- a plugin to generate an Atom (RSS-like) feed of your Jekyll posts   **#GitHub Pages**
+- [**Gist**](https://github.com/jekyll/jekyll-gist) ★61 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists   **#GitHub Pages**
+- [**Mentions**](https://github.com/jekyll/jekyll-mentions) ★71 (gem: [jekyll-mentions](https://rubygems.org/gems/jekyll-mentions)) -- @mentionable support for your site  **#GitHub Pages**
+- [**Paginate**](https://github.com/jekyll/jekyll-paginate) ★38 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- pagination generator  **#GitHub Pages**
+- [**edirectFrom**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts   **#GitHub Pages** -
+- [**SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- Aa plugin to add metadata tags for search engines and social networks to better index and display your site's content  **#GitHub Pages**
+- [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★270 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#GitHub Pages**
+- [**Jemoji**](https://github.com/jekyll/jemoji) ★141 (gem: [jemoji](https://rubygems.org/gems/jemoji)) -- GitHub-flavored emoji plugin   **#GitHub Pages**
+- [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`    **#GitHub Pages**
 
 
 <!-- break -->
