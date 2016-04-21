@@ -1,7 +1,8 @@
 Awesome Series @ Planet Jekyll
 
 [Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
-[Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+[Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) •
+[Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 
 
 # Awesome Jekyll Plugins
@@ -70,6 +71,11 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Full-text search**](https://github.com/PascalW/jekyll_indextank) ★141 by Pascal Widdershoven -- adds full-text search to your site with a plugin and a bit of JavaScript
 
 
+## Feeds & Syndication
+
+**Extensions**
+
+- [**Planet**](https://github.com/feedreader/jekyll-planet) ★6 (gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto)
 
 
 ## Generators
