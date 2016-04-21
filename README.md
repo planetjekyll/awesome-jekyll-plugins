@@ -32,6 +32,9 @@ _(Auto-)Included w/ Jekyll_
 - **#GitHub Pages** - [**Jekyll::Paginate**](https://github.com/jekyll/jekyll-paginate) ★38 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- Pagination Generator for Jekyll
 - **#GitHub Pages** - [**JekyllRedirectFrom**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- Seamlessly specify multiple redirections URLs for your pages and posts
 - **#GitHub Pages** - [**Jekyll SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content
+- **#GitHub Pages** - [**Jekyll Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★270 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+- **#GitHub Pages** - [**Jemoji**](https://github.com/jekyll/jemoji) ★141 (gem: [jemoji](https://rubygems.org/gems/jemoji)) -- GitHub-flavored emoji plugin for Jekyll
+- **#GitHub Pages** - [**github-metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`
 
 
 <!-- break -->
@@ -40,8 +43,7 @@ _(Auto-)Included w/ Jekyll_
 - [**Jekyll 3 Assets**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- Asset pipelines for Jekyll
 - [**Jekyll::Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- Streamline your writing in Jekyll with these commands
 - [**jekyll-import**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "jekyll import" command for importing from various blogs to Jekyll format
-
-
+- [**Jekyll::Textile::Converterr**](https://github.com/jekyll/jekyll-textile-converter) ★1, gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter) -- Convert `.textile` files into HTML. Also includes the `textilize` Liquid filter.
 
 
 
@@ -89,7 +91,6 @@ _(Auto-)Included w/ Jekyll_
 
 **Gems**
 
-- [**Textile converter**](https://github.com/jekyll/jekyll-textile-converter) ★1, gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter) -- Convert `.textile` files into HTML. Also includes the `textilize` Liquid filter.
 - [**Slim plugin**](https://github.com/slim-template/jekyll-slim) ★25, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags.
 - [**AsciiDoc Plugin**](https://github.com/asciidoctor/jekyll-asciidoc) ★84, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
 - [**jekyll-commonmark**](https://github.com/pathawks/jekyll-commonmark) ★1, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
