@@ -59,6 +59,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
 - [**Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
+- [**i18n_tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★1 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
 
 
 ## Search
@@ -178,6 +179,73 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Summarize Filter**](https://gist.github.com/731597) by Mathieu Arnold -- Remove markup after a `<div id="extended">` tag
 - [**Read in X Minutes**](https://gist.github.com/zachleat/5792681) by Zach Leatherman -- Estimates the reading time of a string (for blog post content)
 
+
+## Tags
+
+**Gems**
+
+- [**Twitter**](https://github.com/rob-murray/jekyll-twitter-plugin) ★44 (gem: [jekyll-twitter-plugin](https://rubygems.org/gems/jekyll-twitter-plugin)) by Robert Murray -- A Liquid tag plugin that renders Tweets from Twitter API. Currently supports the oEmbed API.
+- [**contentblocks**](https://github.com/rustygeldmacher/jekyll-contentblocks) ★67 (gem: [jekyll-contentblocks](https://rubygems.org/gems/jekyll-contentblocks)) by Rusty Geldmacher  -- Lets you use Rails-like content_for tags in your templates, for passing content from your posts up to your layouts.
+- [**beastiepress**](https://github.com/okeeblow/jekyll-beastiepress) ★4  (gem: [jekyll-beastiepress](https://rubygems.org/gems/jekyll-beastiepress)) -- FreeBSD utility tags for Jekyll sites.
+- [**swfobject**](https://github.com/sectore/jekyll-swfobject) ★2 (gem: [jekyll-swfobject](https://rubygems.org/gems/jekyll-swfobject)) -- Liquid plugin for embedding Adobe Flash files (.swf) using SWFObject.
+- [**Picture Tag**](https://github.com/robwierzbowski/jekyll-picture-tag) ★296 (gem: [jekyll-picture-tag](https://rubygems.org/gems/jekyll-picture-tag)) -- Easy responsive images for Jekyll. Based on the proposed `<picture>` element, polyfilled with Scott Jehl's Picturefill.
+- [**Responsive Image**](https://github.com/wildlyinaccurate/jekyll-responsive-image) ★36 (gem: [jekyll-responsive_image](https://rubygems.org/gems/jekyll-responsive_image)) -- Responsive images for Jekyll. Automatically resizes images, supports all responsive methods (`<picture>`, `srcset`, Imager.js, etc), super-flexible configuration.
+- [**Date Chart**](https://github.com/GSI/jekyll_date_chart) ★5 (gem: [jekyll_date_chart](https://rubygems.org/gems/jekyll_date_chart)) -- Block that renders date line charts based on textile-formatted tables.
+- [**Image Encode**](https://github.com/GSI/jekyll_image_encode) ★8 (gem: [jekyll_image_encode](https://rubygems.org/gems/jekyll_image_encode)) -- Tag that renders base64 codes of images fetched from the web.
+- [**Quick Man**](https://github.com/GSI/jekyll_quick_man) ★4 (gem: [jekyll_quick_man](https://rubygems.org/gems/jekyll_quick_man)) -- Tag that renders pretty links to man page sources on the internet.
+- [**figure**](https://github.com/lmullen/jekyll_figure) ★18 (gem: [jekyll_figure](https://rubygems.org/gems/jekyll_figure)) -- Generate figures and captions with links to the figure in a variety of formats
+- [**GitHub Sample Tag**](https://github.com/bwillis/jekyll-github-sample) ★17 (gem: [jekyll_github_sample](https://rubygems.org/gems/jekyll_github_sample)) -- A liquid tag to include a sample of a github repo file in your Jekyll site.
+- [**Project Version Tag**](https://github.com/rob-murray/jekyll-version-plugin) ★7 (gem: [jekyll_version_plugin](https://rubygems.org/gems/jekyll_version_plugin)) -- A Liquid tag plugin that renders a version identifier for your Jekyll site sourced from the git repository containing your code.
+- [**webmention_io.rb**](https://github.com/aarongustafson/jekyll-webmention_io) ★42 by Aaron Gustafson -- A plugin to enable webmention integration using Webmention.io. Includes an optional JavaScript for updating webmentions automatically between publishes and, if available, in realtime using WebSockets.
+- [**inline\_highlight**](https://github.com/bdesham/inline_highlight) ★10 (gem: [jekyll_inline_highlight](https://rubygems.org/gems/jekyll_inline_highlight))  -- A tag for inline syntax highlighting.
+- [**mermaid**](https://github.com/jasonbellamy/jekyll-mermaid) ★17 (gem: [jekyll-mermaid](https://rubygems.org/gems/jekyll-mermaid)) -- Simplify the creation of mermaid diagrams and flowcharts in your posts and pages.
+- [**asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★11 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- A tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
+- [**Youtube**](https://github.com/dommmel/jekyll-youtube) ★7 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- A Liquid tag that embeds Youtube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
+- [**figure**](https://github.com/paulrobertlloyd/jekyll-figure) ★7 (gem: [jekyll-figure](https://rubygems.org/gems/jekyll-figure)) -- A liquid tag for Jekyll that generates `<figure>` elements.
+
+
+**Scripts**
+
+- [**Asset Path Tag**](https://github.com/samrayner/jekyll-asset-path-plugin) ★53 by Sam Rayner -- Allows organisation of assets into subdirectories by outputting a path for a given file relative to the current post or page.
+- [**Delicious Plugin**](https://github.com/christianhellsten/jekyll-plugins) ★18 by Christian Hellsten -- Fetches and renders bookmarks from delicious.com.
+- [**Embed.ly Client**](https://github.com/robb/jekyll-embedly-client) ★24 by Robert Böhnke -- Autogenerate embeds from URLs using oEmbed.
+- [**FlickrSetTag**](https://github.com/tsmango/jekyll_flickr_set_tag) ★50 by Thomas Mango -- Generates image galleries from Flickr sets.
+- [**Tweet Tag**](https://github.com/scottwb/jekyll-tweet-tag) ★71  by Scott W. Bradley -- Liquid tag for Embedded Tweets using Twitter’s shortcodes.
+- [**Bib**](https://github.com/pablooliveira/bibjekyll) ★28 -- Render BibTeX-formatted bibliographies/citations included in posts and pages using bibtex2html.
+- [**citation**](https://github.com/archome/jekyll-citation) ★36 -- Render BibTeX-formatted bibliographies/citations included in posts and pages (pure Ruby).
+- [**Dribbble Set Tag**](https://github.com/ericdfields/Jekyll-Dribbble-Set-Tag) ★18 -- Builds Dribbble image galleries from any user.
+- [**GalleryTag**](https://github.com/redwallhp/JekyllGalleryTag) ★55 -- Generates thumbnails from a directory of images and displays them in a grid.
+- [**Image Tag**](https://github.com/robwierzbowski/jekyll-image-tag) ★82 -- Better images for Jekyll. Save image presets, generate resized images, and add classes, alt text, and other attributes.
+- [**Ditaa Tag**](https://github.com/matze/jekyll-ditaa) ★23  by Matthias Vogelgesang -- Renders ASCII diagram art into PNG images and inserts a figure tag.
+- [**Suggested Tweet**](https://github.com/davidensinger/jekyll-suggested-tweet) ★11 by David Ensinger -- A Liquid tag for Jekyll that allows for the embedding of suggested tweets via Twitter’s Web Intents API.
+- [**Image Set/Gallery Tag**](https://github.com/callmeed/jekyll-image-set) ★26 by Erik Dungan -- Renders HTML for an image gallery from a folder in your Jekyll site. Just pass it a folder name and class/tag options.
+- [**Piwigo Gallery**](https://github.com/AlessandroLorenzi/piwigo_gallery) ★2 by Alessandro Lorenzi -- Jekyll plugin to generate thumbnails from a Piwigo gallery and display them with a Liquid tag
+- [**mathml.rb**](https://github.com/tmthrgd/jekyll-plugins) ★4 by Tom Thorogood -- A plugin to convert TeX mathematics into MathML for display.
+- [**500px Embed**](https://github.com/lkorth/jekyll-500px-embed) ★10 by Luke Korth -- A Liquid tag plugin that embeds 500px photos.
+- [**twa**](https://github.com/Ezmyrelda/twa) ★2 -- Twemoji Awesome plugin for Jekyll. Liquid tag allowing you to use twitter emoji in your jekyll pages.
+- [**Fetch remote file content**](https://github.com/dimitri-koenig/jekyll-plugins) ★1 by Dimitri König -- Using `remote_file_content` tag you can fetch the content of a remote file and include it as if you would put the content right into your markdown file yourself. Very useful for including code from github repo's to always have a current repo version.
+- [**Flickr**](https://github.com/lawmurray/indii-jekyll-flickr) ★6 by Lawrence Murray -- Embeds Flickr photosets (albums) as a gallery of thumbnails, with lightbox links to larger images.
+- [**Video Embed**](https://github.com/eug/jekyll-video-embed) ★4 -- It provides several tags to easily embed videos (e.g. Youtube, Vimeo, UStream and Ted Talks)
+
+
+**Gist Pasties**
+
+- [**Ultraviolet**](https://gist.github.com/480380)  by Steve Alex -- Jekyll tag for the Ultraviolet code highligher
+- [**Tag Cloud**](https://gist.github.com/710577)  by Ilkka Laukkanen -- Generate a tag cloud that links to tag pages.
+- [**Git Tag**](https://gist.github.com/730347) by Alexandre Girard -- Add Git activity inside a list.
+- [**MathJax Liquid Tags**](https://gist.github.com/834610) by Jessy Cowan-Sharp -- Simple liquid tags for Jekyll that convert inline math and block equations to the appropriate MathJax script tags.
+- [**Non-JS Gist Tag**](https://gist.github.com/1027674)  by Brandon Tilley -- A Liquid tag that embeds Gists and shows code for non-JavaScript enabled browsers and readers.
+- [**Render Time Tag**](https://gist.github.com/449509)  by Blake Smith -- Displays the time a Jekyll page was generated.
+- [**Status.net/OStatus Tag**](https://gist.github.com/912466) -- Displays the notices in a given status.net/ostatus feed.
+- [**Logarithmic Tag Cloud**](https://gist.github.com/2290195) -- Flexible. Logarithmic distribution. Documentation inline.
+- [**oEmbed Tag**](https://gist.github.com/1455726) by Tammo van Lessen -- Enables easy content embedding (e.g. from YouTube, Flickr, Slideshare) via oEmbed.
+- [**Generate YouTube Embed**](https://gist.github.com/1805814) by Joel Verhagen -- Jekyll plugin which allows you to embed a YouTube video in your page with the YouTube ID. Optionally specify width and height dimensions. Like “oEmbed Tag” but just for YouTube.
+- [**Jsonball**](https://gist.github.com/1895282) -- Reads json files and produces maps for use in Jekyll files.
+- [**Debbugs**](https://gist.github.com/2218470) -- Allows posting links to Debian BTS easily.
+- [**devonly_tag**](https://gist.github.com/2403522) -- A block tag for including markup only during development.
+- [**Youku and Tudou Embed**](https://gist.github.com/Yexiaoxing/5891929) -- Liquid plugin for embedding Youku and Tudou videos.
+- [**font-awesome**](https://gist.github.com/23maverick23/8532525) -- Quickly and easily add Font Awesome icons to your posts.
+- [**Lychee Gallery Tag**](https://gist.github.com/tobru/9171700) by Tobias Brunner -- Include Lychee albums into a post
 
 
 
