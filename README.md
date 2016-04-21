@@ -27,7 +27,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 **Optional Gems**
 
-- [**Feed**](https://github.com/jekyll/jekyll-feed) ★206 (gem: [jekyll-feed](https://rubygems.org/gems/jekyll-feed)) -- a plugin to generate an Atom (RSS-like) feed of your Jekyll posts   **#GitHub Pages**
+- [**Feed**](https://github.com/jekyll/jekyll-feed) ★206 (gem: [jekyll-feed](https://rubygems.org/gems/jekyll-feed)) -- a plugin to generate an Atom (RSS-like) feed of your posts   **#GitHub Pages**
 - [**Gist**](https://github.com/jekyll/jekyll-gist) ★61 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists   **#GitHub Pages**
 - [**Mentions**](https://github.com/jekyll/jekyll-mentions) ★71 (gem: [jekyll-mentions](https://rubygems.org/gems/jekyll-mentions)) -- @mentionable support for your site  **#GitHub Pages**
 - [**Paginate**](https://github.com/jekyll/jekyll-paginate) ★38 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- pagination generator  **#GitHub Pages**
