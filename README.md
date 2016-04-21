@@ -16,12 +16,16 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 
 _Plugins by Team Jekyll_
 
-### Core Gems
+**Core Gems**
 
 _(Auto-)Included w/ Jekyll_
 
+- **#GitHub Pages** - [**Jekyll Sass Converter**](https://github.com/jekyll/jekyll-sass-converter) ★45 (gem: [jekyll-sass-converter](https://rubygems.org/gems/jekyll-sass-converter)) -- A Sass converter for Jekyll
+- **#GitHub Pages** - [**Jekyll Watch**](https://github.com/jekyll/jekyll-watch) ★30 (gem: [jekyll-watch](https://rubygems.org/gems/jekyll-watch)) -- Rebuild your Jekyll site when a file changes with the `--watch` switch
 
-### Optional Gems
+
+**Optional Gems**
+
 
 - [**jekyll-archives**](https://github.com/jekyll/jekyll-archives) ★111 (gem: [jekyll-archives](https://rubygems.org/gems/jekyll-archives)) -- Archive pages for your Jekyll tags and categories
 - [**jekyll-assets**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- Asset pipelines for Jekyll
