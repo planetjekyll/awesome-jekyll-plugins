@@ -31,8 +31,8 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Gist**](https://github.com/jekyll/jekyll-gist) ★61 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists   **#GitHub Pages**
 - [**Mentions**](https://github.com/jekyll/jekyll-mentions) ★71 (gem: [jekyll-mentions](https://rubygems.org/gems/jekyll-mentions)) -- @mentionable support for your site  **#GitHub Pages**
 - [**Paginate**](https://github.com/jekyll/jekyll-paginate) ★38 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- pagination generator  **#GitHub Pages**
-- [**edirectFrom**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts   **#GitHub Pages** -
-- [**SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- Aa plugin to add metadata tags for search engines and social networks to better index and display your site's content  **#GitHub Pages**
+- [**edirectFrom**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts   **#GitHub Pages**
+- [**SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- a plugin to add metadata tags for search engines and social networks to better index and display your site's content  **#GitHub Pages**
 - [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★270 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#GitHub Pages**
 - [**Jemoji**](https://github.com/jekyll/jemoji) ★141 (gem: [jemoji](https://rubygems.org/gems/jemoji)) -- GitHub-flavored emoji plugin   **#GitHub Pages**
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`    **#GitHub Pages**
@@ -40,14 +40,17 @@ _(Auto-)Included w/ "Standard" Install_
 
 <!-- break -->
 
-- [**Jekyll Archives**](https://github.com/jekyll/jekyll-archives) ★111 (gem: [jekyll-archives](https://rubygems.org/gems/jekyll-archives)) -- Archive pages for your Jekyll tags and categories
-- [**Jekyll 3 Assets**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- Asset pipelines for Jekyll
-- [**Jekyll::Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- Streamline your writing in Jekyll with these commands
-- [**jekyll-import**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "jekyll import" command for importing from various blogs to Jekyll format
-- [**Jekyll::Textile::Converterr**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- Convert `.textile` files into HTML. Also includes the `textilize` Liquid filter
-- [**Jekyll::Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★18 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- A CoffeeScript converter for Jekyll
-- [**Jekyll-Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- Let Jekyll convert your Ruby into JavaScript using Opal
+- [**Archives**](https://github.com/jekyll/jekyll-archives) ★111 (gem: [jekyll-archives](https://rubygems.org/gems/jekyll-archives)) -- archive pages for your tags and categories
+- [**Assets 3**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- asset pipelines
+- [**Textile::Converterr**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter
+- [**Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★18 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- a CoffeeScript converter
+- [**Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- convert your Ruby into JavaScript using Opal
 
+
+**New Commands & Switchtes**
+
+- [**Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- streamline your writing with these commands
+- [**Importers**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "import" command for importing from various blogs
 
 
 
@@ -55,13 +58,13 @@ _(Auto-)Included w/ "Standard" Install_
 
 **Gems**
 
-- [**Emoji for Jekyll**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- Seamlessly enable emoji for all posts and pages.
-- [**Compass integration for Jekyll**](https://github.com/mscharley/jekyll-compass) ★51, gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- Easily integrate Compass and Sass with your Jekyll website.
-- [**Jekyll::AutolinkEmail**](https://github.com/ivantsepp/jekyll-autolink_email) ★6, gem: [jekyll-autolink_email](https://rubygems.org/gems/jekyll-autolink_email) by Ivan Tse -- Autolink your emails.
-- [**Jekyll::GitMetadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★24, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- Expose Git metadata for your templates.
-- [**Jekyll Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- Gets the first image of a post. Useful to list your posts with images or to add [twitter cards](https://dev.twitter.com/cards/overview) to your site.
-- [**Jekyll-Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- This generator replaces all german umlauts (äöüß) case sensitive with html.
-- [**Jekyll::Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★4, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- Pagination Generator for Jekyll Category.
+- [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
+- [**Compass Integration**](https://github.com/mscharley/jekyll-compass) ★51, gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site
+- [**AutolinkEmail**](https://github.com/ivantsepp/jekyll-autolink_email) ★6, gem: [jekyll-autolink_email](https://rubygems.org/gems/jekyll-autolink_email) by Ivan Tse -- Autolink your emails.
+- [**GitMetadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★24, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- expose Git metadata for your templates
+- [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
+- [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
+- [**Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★4, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- pagination generator for category
 
 **Scripts**
 
