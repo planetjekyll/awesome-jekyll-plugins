@@ -57,8 +57,8 @@ _(Auto-)Included w/ "Standard" Install_
 
 ## Multi Language / Multi Lingual
 
-- [**jekyll-language-plugin**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
-- [**Jekyll-Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- Multilingual and I18n support tool
+- [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
+- [**Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
 
 
 ## Search
@@ -66,7 +66,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 **Scripts**
 
-- [**Full-text search**](https://github.com/PascalW/jekyll_indextank) ★141 by Pascal Widdershoven -- Adds full-text search to your site with a plugin and a bit of JavaScript
+- [**Full-text search**](https://github.com/PascalW/jekyll_indextank) ★141 by Pascal Widdershoven -- adds full-text search to your site with a plugin and a bit of JavaScript
 
 
 
