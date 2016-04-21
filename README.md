@@ -12,7 +12,7 @@ A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
-## Official Team Jekyll Plugins
+## Official Jekyll Plugins
 
 _Plugins by Team Jekyll_
 
