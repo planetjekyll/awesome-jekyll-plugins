@@ -42,7 +42,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Archives**](https://github.com/jekyll/jekyll-archives) ★111 (gem: [jekyll-archives](https://rubygems.org/gems/jekyll-archives)) -- archive pages for your tags and categories
 - [**Assets 3**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- asset pipelines
-- [**Textile::Converterr**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter
+- [**Textile::Converter**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter
 - [**Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★18 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- a CoffeeScript converter
 - [**Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- convert your Ruby into JavaScript using Opal
 
