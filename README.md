@@ -13,6 +13,10 @@ importers, new commands & switches, and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+## Documentation
+
+See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
+
 
 ## Official Plugins
 
