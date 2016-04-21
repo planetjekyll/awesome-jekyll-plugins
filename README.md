@@ -43,8 +43,9 @@ _(Auto-)Included w/ Jekyll_
 - [**Jekyll 3 Assets**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- Asset pipelines for Jekyll
 - [**Jekyll::Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- Streamline your writing in Jekyll with these commands
 - [**jekyll-import**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "jekyll import" command for importing from various blogs to Jekyll format
-- [**Jekyll::Textile::Converterr**](https://github.com/jekyll/jekyll-textile-converter) ★1, gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter) -- Convert `.textile` files into HTML. Also includes the `textilize` Liquid filter.
-
+- [**Jekyll::Textile::Converterr**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- Convert `.textile` files into HTML. Also includes the `textilize` Liquid filter
+- [**Jekyll::Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★18 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- A CoffeeScript converter for Jekyll
+- [**Jekyll-Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- Let Jekyll convert your Ruby into JavaScript using Opal
 
 
 
