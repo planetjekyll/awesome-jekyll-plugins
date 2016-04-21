@@ -123,6 +123,43 @@ _(Auto-)Included w/ Jekyll_
 - [**Org-mode Converter**](https://gist.github.com/abhiyerra/7377603) -- Emacs Org-mode converter for Jekyll.
 
 
+## Filters
+
+**Gems**
+
+- [**Jekyll-timeago**](https://github.com/markets/jekyll-timeago) ★44 (gem: [jekyll-timeago](https://rubygems.org/gems/jekyll-timeago)) -- Converts a time value to the time ago in words.
+- [**pluralize**](https://github.com/bdesham/pluralize) ★15 by Benjamin Esham (gem: [liquid_pluralize](https://rubygems.org/gems/liquid_pluralize)) -- Easily combine a number and a word into a grammatically-correct amount like “1 minute” or “2 minute**s**”.
+- [**reading_time**](https://github.com/bdesham/reading_time) ★50 by Benjamin Esham (gem: [liquid_reading_time](https://rubygems.org/gems/liquid_reading_time)) -- Count words and estimate reading time for a piece of text, ignoring HTML elements that are unlikely to contain running text.
+- [**jekyll-toc**](https://github.com/toshimaru/jekyll-toc) ★5   (gem: [jekyll-toc](https://rubygems.org/gems/jekyll-toc))-- A liquid filter plugin for Jekyll which generates a table of contents.
+- [**Jekyll-Smartify**](https://github.com/pathawks/jekyll-smartify) ★4 by Pat Hawks (gem: [jekyll-smartify](https://rubygems.org/gems/jekyll-smartify))  -- SmartyPants filter. Make &quot;quotes&quot; &ldquo;curly&rdquo;
+- [**liquid-md5**](https://github.com/pathawks/liquid-md5) ★3 by Pat Hawks (gem: [liquid-md5](https://rubygems.org/gems/liquid-md5)) -- Returns an MD5 hash. Helpful for generating Gravatars in templates
+- [**jekyll-roman**](https://github.com/paulrobertlloyd/jekyll-roman) ★2 by Paul Robert Lloyd (gem: [jekyll-roman](https://rubygems.org/gems/jekyll-roman)) -- A liquid filter for Jekyll that converts numbers into Roman numerals
+- [**Jekyll::Typogrify**](https://github.com/myles/jekyll-typogrify) ★5 by Myles Braithwaite (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) -- A Jekyll plugin that brings the functions of typogruby.
+- [**Jekyll Email Protect**](https://github.com/vwochnik/jekyll-email-protect) ★13 by Vincent Wochnik (gem: [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect)) -- Email protection liquid filter for Jekyll
+
+
+
+**Scripts**
+
+- [**Truncate HTML**](https://github.com/MattHall/truncatehtml) ★46 by Matt Hall -- A Jekyll filter that truncates HTML while preserving markup structure.
+- [**Domain Name Filter**](https://github.com/LawrenceWoodman/domain_name-liquid_filter) 3★  by Lawrence Woodman -- Filters the input text so that just the domain name is left.
+- [**i18n_filter**](https://github.com/gacha/gacha.id.lv/blob/master/_plugins/i18n_filter.rb) -- Liquid filter to use I18n localization.
+- [**Smilify**](https://github.com/SaswatPadhi/jekyll_smilify) ★6 by Saswat Padhi -- Convert text emoticons in your content to themeable smiley pics.
+- [**Table of Content Generator**](https://github.com/dafi/jekyll-toc-generator) ★63 by Davide Ficano -- Generate the HTML code containing a table of content (TOC), the TOC can be customized in many way, for example you can decide which pages can be without TOC.
+- [**jekyll-humanize**](https://github.com/23maverick23/jekyll-humanize) ★20 by Ryan Morrissey -- This is a port of the Django app humanize which adds a "human touch" to data. Each method represents a Fluid type filter that can be used in your Jekyll site templates. Given that Jekyll produces static sites, some of the original methods do not make logical sense to port (e.g. naturaltime).
+- [**Jekyll-Ordinal**](https://github.com/PatrickC8t/Jekyll-Ordinal) ★9  -- Jekyll liquid filter to output a date ordinal such as "st", "nd", "rd", or "th".
+- [**Deprecated articles keeper**](https://github.com/kzykbys/JekyllPlugins) ★5 by Kazuya Kobayashi -- A simple Jekyll filter which monitor how old an article is.
+- [**Jekyll-jalali**](https://github.com/mehdisadeghi/jekyll-jalali) ★4 by Mehdi Sadeghi -- A simple Gregorian to Jalali date converter filter.
+- [**Jekyll Thumbnail Filter**](https://github.com/matallo/jekyll-thumbnail-filter) ★10 by Carlos Matallín -- Related posts thumbnail filter.
+
+
+**Gist Pasties**
+
+- [**Summarize Filter**](https://gist.github.com/731597) by Mathieu Arnold -- Remove markup after a `<div id="extended">` tag
+- [**Read in X Minutes**](https://gist.github.com/zachleat/5792681) by Zach Leatherman -- Estimates the reading time of a string (for blog post content)
+
+
+
 ## Multi Language / Multi Lingual
 
 - [**jekyll-language-plugin**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
