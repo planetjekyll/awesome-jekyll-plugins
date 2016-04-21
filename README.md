@@ -55,6 +55,21 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Importers**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "import" command for importing from various blogs
 
 
+## Multi Language / Multi Lingual
+
+- [**jekyll-language-plugin**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
+- [**Jekyll-Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- Multilingual and I18n support tool
+
+
+## Search
+
+
+**Scripts**
+
+- [**Full-text search**](https://github.com/PascalW/jekyll_indextank) ★141 by Pascal Widdershoven -- Adds full-text search to your site with a plugin and a bit of JavaScript
+
+
+
 
 ## Generators
 
@@ -71,7 +86,6 @@ _(Auto-)Included w/ "Standard" Install_
 **Scripts**
 
 - [**Sitemap.xml Generator**](https://github.com/kinnetica/jekyll-plugins) ★202 by Michael Levin -- Generates a sitemap.xml file by traversing all of the available posts and pages.
-- [**Full-text search**](https://github.com/PascalW/jekyll_indextank) ★141 by Pascal Widdershoven -- Adds full-text search to your Jekyll site with a plugin and a bit of JavaScript.
 - [**AliasGenerator**](https://github.com/tsmango/jekyll_alias_generator) ★121 by Thomas Mango -- Generates redirect pages for posts when an alias is specified in the YAML Front Matter.
 - [**Pageless Redirect Generator**](https://github.com/nquinlan/jekyll-pageless-redirects) ★61 by Nick Quinlan -- Generates redirects based on files in the Jekyll root, with support for htaccess style redirects.
 - [**RssGenerator**](https://github.com/agelber/jekyll-rss) ★81 by Assaf Gelber -- Automatically creates an RSS 2.0 feed from your posts.
@@ -164,12 +178,6 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Summarize Filter**](https://gist.github.com/731597) by Mathieu Arnold -- Remove markup after a `<div id="extended">` tag
 - [**Read in X Minutes**](https://gist.github.com/zachleat/5792681) by Zach Leatherman -- Estimates the reading time of a string (for blog post content)
 
-
-
-## Multi Language / Multi Lingual
-
-- [**jekyll-language-plugin**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
-- [**Jekyll-Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- Multilingual and I18n support tool
 
 
 
