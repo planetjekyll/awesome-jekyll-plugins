@@ -47,7 +47,9 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- convert your Ruby into JavaScript using Opal
 
 
-**New Commands & Switchtes**
+**More Optional Gems**
+
+ _New Commands & Switchtes_
 
 - [**Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- streamline your writing with these commands
 - [**Importers**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "import" command for importing from various blogs
