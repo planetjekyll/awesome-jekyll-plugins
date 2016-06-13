@@ -228,6 +228,7 @@ _(Auto-)Included w/ "Standard" Install_
 - [**asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★11 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- A tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
 - [**Youtube**](https://github.com/dommmel/jekyll-youtube) ★7 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- A Liquid tag that embeds Youtube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
 - [**figure**](https://github.com/paulrobertlloyd/jekyll-figure) ★7 (gem: [jekyll-figure](https://rubygems.org/gems/jekyll-figure)) -- A liquid tag for Jekyll that generates `<figure>` elements.
+- [**giphy**](https://github.com/vfalanis/jekyll-giphy) (gem: [jekyll-giphy](https://rubygems.org/gems/jekyll-giphy)) --  A plugin for embedding random giphy GIFs on Jekyll sites according to a user defined topic.
 
 
 **Scripts**
