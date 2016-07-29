@@ -1,6 +1,7 @@
 Awesome Series @ Planet Jekyll
 
 [Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
+[Jekyll Themes](https://github.com/planetjekyll/awesome-jekyll-themes) •
 [Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) •
 [Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 
