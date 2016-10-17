@@ -23,7 +23,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Directories / Listings
 
-See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins listed here; add your plugin in here to get added - thanks!
+See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins listed here; add your plugin here to get added - thanks!
 
 
 ## Official Plugins
