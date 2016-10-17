@@ -3,7 +3,7 @@
 A collection of awesome Jekyll plugins (scripts, pasties, etc.) adding converters, generators, filters & tags,
 importers, new commands & switches, and more.
 
-Note: For all gem-packaged plugins, see the main page, that is, [README.md](README.md).
+> Note: For all gem-packaged plugins, see the main page, that is, [README.md](README.md).
 
 
 ## Search
