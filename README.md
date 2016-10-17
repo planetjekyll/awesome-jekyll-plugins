@@ -11,6 +11,8 @@ Awesome Series @ Planet Jekyll
 A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.) adding converters, generators, filters & tags,
 importers, new commands & switches, and more.
 
+> Note: For all scripts & pasties, see the [PASTIES.md](PASTIES.md) page.
+
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
@@ -19,11 +21,16 @@ importers, new commands & switches, and more.
 See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
 
 
+## Directories / Listings
+
+See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins listed here; add your plugin in here to get added - thanks!
+
+
 ## Official Plugins
 
 _Plugins by Team Jekyll_
 
-**Core / Built-in Gems**
+### Core / Built-in Gems
 
 _(Auto-)Included w/ "Standard" Install_
 
