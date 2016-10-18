@@ -68,6 +68,11 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Importers**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "import" command for importing from various blogs
 
 
+## Admin & Visual Editors
+
+- [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- provides users with a traditional content management system-style graphical interface to author content and administer sites
+
+
 ## Multi Language / Multi Lingual
 
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
@@ -90,6 +95,9 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Scholar**](https://github.com/inukshuk/jekyll-scholar) ★328 (gem: [jekyll-scholar](https://rubygems.org/gems/jekyll-scholar)) by Sylvester Keil  -- extensions for the blogging scholar.
 
+## Geocoding
+
+- [**Geocode**](https://github.com/bertrandkeller/jekyll-geocode) ★1 (gem: [jekyll-geocode](https://rubygems.org/gems/jekyll-geocode)) by Bertrand Keller -- geo-encode addresses from a datafile for drawing maps
 
 ## Generators
 
