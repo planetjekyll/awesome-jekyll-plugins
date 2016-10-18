@@ -70,7 +70,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 ## Admin & Visual Editors
 
-- [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- provides users with a traditional content management system-style graphical interface to author content and administer sites
+- [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- adds a traditional content management system-style graphical interface to author content and administer sites
 
 
 ## Settings & Configurations Tweaks
