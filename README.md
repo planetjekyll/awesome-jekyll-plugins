@@ -13,7 +13,7 @@ importers, new commands & switches, and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-> Note: See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins 
+> Note: See the [Plugins & Extensions Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins 
 > listed here; add your plugin here to get added - thanks!
 
 
