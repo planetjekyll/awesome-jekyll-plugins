@@ -120,6 +120,7 @@ importers, new commands & switches, and more.
 - [**Fetch remote file content**](https://github.com/dimitri-koenig/jekyll-plugins) ★1 by Dimitri König -- Using `remote_file_content` tag you can fetch the content of a remote file and include it as if you would put the content right into your markdown file yourself. Very useful for including code from github repo's to always have a current repo version.
 - [**Flickr**](https://github.com/lawmurray/indii-jekyll-flickr) ★6 by Lawrence Murray -- Embeds Flickr photosets (albums) as a gallery of thumbnails, with lightbox links to larger images.
 - [**Video Embed**](https://github.com/eug/jekyll-video-embed) ★4 -- It provides several tags to easily embed videos (e.g. Youtube, Vimeo, UStream and Ted Talks)
+- [**Webmention.io**](https://github.com/aarongustafson/jekyll-webmention_io) ★42 by Aaron Gustafson -- A plugin to enable webmention integration using Webmention.io. Includes an optional JavaScript for updating webmentions automatically between publishes and, if available, in realtime using WebSockets.
 
 
 **Gist Pasties**
