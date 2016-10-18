@@ -103,9 +103,11 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Scholar**](https://github.com/inukshuk/jekyll-scholar) ★328 (gem: [jekyll-scholar](https://rubygems.org/gems/jekyll-scholar)) by Sylvester Keil  -- extensions for the blogging scholar.
 
-## Geocoding
+## Geocoding & Maps
 
 - [**Geocode**](https://github.com/bertrandkeller/jekyll-geocode) ★1 (gem: [jekyll-geocode](https://rubygems.org/gems/jekyll-geocode)) by Bertrand Keller -- geo-encode addresses from a datafile for drawing maps
+- [**Maps**](https://github.com/ayastreb/jekyll-maps) ★18 (gem: [jekyll-maps](https://rubygems.org/gems/jekyll-maps)) by Anatoliy Yastreb -- embed maps with filterable locations
+
 
 ## Tags & Taggings, Categories & Categorizations
 
