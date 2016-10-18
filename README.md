@@ -73,6 +73,14 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- provides users with a traditional content management system-style graphical interface to author content and administer sites
 
 
+## Settings & Configurations Tweaks
+
+- [**Default Layout**](https://github.com/benbalter/jekyll-default-layout) ★1 (gem: [jekyll-default-layout](https://rubygems.org/gems/jekyll-default-layout)) by Ben Balter -- silently sets default layouts for pages and posts
+- [**Optional Front Matter**](https://github.com/benbalter/jekyll-optional-front-matter) ★4 (gem: [jekyll-optional-front-matter](https://rubygems.org/gems/jekyll-optional-front-matter)) by Ben Balter -- makes front matter optional for markdown files
+- [**Readme Index**](https://github.com/benbalter/jekyll-readme-index) ★1 (gem: [jekyll-readme-index](https://rubygems.org/gems/jekyll-readme-index)) by Ben Balter -- render a project's README as the site's index
+- [**Data**](https://github.com/ashmaroli/jekyll-data) ★2 (gem: [jekyll-data](https://rubygems.org/gems/jekyll-data)) by Ashwin Maroli -- read datafiles in themes
+
+
 ## Multi Language / Multi Lingual
 
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
