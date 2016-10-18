@@ -30,7 +30,7 @@ See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - 
 
 _Plugins by Team Jekyll_
 
-### Core / Built-in Gems
+### Core / Built-in
 
 _(Auto-)Included w/ "Standard" Install_
 
@@ -38,7 +38,7 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Watch**](https://github.com/jekyll/jekyll-watch) ★30 (gem: [jekyll-watch](https://rubygems.org/gems/jekyll-watch)) -- rebuild your site when a file changes with the `--watch` switch
 
 
-### Optional Gems
+### Core / Optional
 
 - [**Feed**](https://github.com/jekyll/jekyll-feed) ★206 (gem: [jekyll-feed](https://rubygems.org/gems/jekyll-feed)) -- a plugin to generate an Atom (RSS-like) feed of your posts   **#GitHub Pages**
 - [**Gist**](https://github.com/jekyll/jekyll-gist) ★61 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists   **#GitHub Pages**
@@ -51,16 +51,13 @@ _(Auto-)Included w/ "Standard" Install_
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`    **#GitHub Pages**
 
 
-<!-- break -->
+### More
 
 - [**Archives**](https://github.com/jekyll/jekyll-archives) ★111 (gem: [jekyll-archives](https://rubygems.org/gems/jekyll-archives)) -- archive pages for your tags and categories
 - [**Assets 3**](https://github.com/jekyll/jekyll-assets) ★579 (gem: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)) -- asset pipelines
 - [**Textile::Converter**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter
 - [**Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★18 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- a CoffeeScript converter
 - [**Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- convert your Ruby into JavaScript using Opal
-
-
-### More Optional Gems
 
  _New Commands & Switches_
 
@@ -103,16 +100,12 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Scholar**](https://github.com/inukshuk/jekyll-scholar) ★328 (gem: [jekyll-scholar](https://rubygems.org/gems/jekyll-scholar)) by Sylvester Keil  -- extensions for the blogging scholar.
 
-## Geocoding & Maps
-
-- [**Geocode**](https://github.com/bertrandkeller/jekyll-geocode) ★1 (gem: [jekyll-geocode](https://rubygems.org/gems/jekyll-geocode)) by Bertrand Keller -- geo-encode addresses from a datafile for drawing maps
-- [**Maps**](https://github.com/ayastreb/jekyll-maps) ★18 (gem: [jekyll-maps](https://rubygems.org/gems/jekyll-maps)) by Anatoliy Yastreb -- embed maps with filterable locations
-
 
 ## Tags & Taggings, Categories & Categorizations
 
 - [**Tagging**](https://github.com/pattex/jekyll-tagging) ★194 (gem: [jekyll-tagging](https://rubygems.org/gems/jekyll-tagging)) -- plugin to automatically generate a tag cloud and tag pages.
 - [**Tagging Related_Posts**](https://github.com/toshimaru/jekyll-tagging-related_posts) ★5 (gem: [jekyll-tagging-related_posts](https://rubygems.org/gems/jekyll-tagging-related_posts)) -- related_posts function based on tags
+
 
 ## Pagination
 
@@ -120,24 +113,32 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★4, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- pagination generator for category
 
 
-## Generators
+## Figures & Captions
 
-- [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
-- [**Compass Integration**](https://github.com/mscharley/jekyll-compass) ★51, gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site
-- [**Autolink Email**](https://github.com/ivantsepp/jekyll-autolink_email) ★6, gem: [jekyll-autolink_email](https://rubygems.org/gems/jekyll-autolink_email) by Ivan Tse -- Autolink your emails.
-- [**Git Metadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★24, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- expose Git metadata for your templates
-- [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
-- [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
+- [**Figure Tag**](https://github.com/lmullen/jekyll_figure) ★18 (gem: [jekyll_figure](https://rubygems.org/gems/jekyll_figure)) -- Generate figures and captions with links to the figure in a variety of formats
+- [**Figure Tag**](https://github.com/paulrobertlloyd/jekyll-figure) ★7 (gem: [jekyll-figure](https://rubygems.org/gems/jekyll-figure)) -- A liquid tag for Jekyll that generates `<figure>` elements.
 
 
-## Converters
+## Images & Pictures
 
-- [**Slim**](https://github.com/slim-template/jekyll-slim) ★25, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags.
-- [**AsciiDoc**](https://github.com/asciidoctor/jekyll-asciidoc) ★84, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
-- [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★1, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
+- [**Picture Tag**](https://github.com/robwierzbowski/jekyll-picture-tag) ★296 (gem: [jekyll-picture-tag](https://rubygems.org/gems/jekyll-picture-tag)) -- Easy responsive images for Jekyll. Based on the proposed `<picture>` element, polyfilled with Scott Jehl's Picturefill.
+- [**Responsive Image**](https://github.com/wildlyinaccurate/jekyll-responsive-image) ★36 (gem: [jekyll-responsive_image](https://rubygems.org/gems/jekyll-responsive_image)) -- Responsive images for Jekyll. Automatically resizes images, supports all responsive methods (`<picture>`, `srcset`, Imager.js, etc), super-flexible configuration.
+- [**Image Encode Tag**](https://github.com/GSI/jekyll_image_encode) ★8 (gem: [jekyll_image_encode](https://rubygems.org/gems/jekyll_image_encode)) -- Tag that renders base64 codes of images fetched from the web.
 
 
-## Filters
+## Videos & Screencasts
+
+- [**Youtube**](https://github.com/dommmel/jekyll-youtube) ★7 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- a Liquid tag that embeds Youtube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
+- [**Asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★11 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- a tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
+
+
+## Geocoding & Maps
+
+- [**Geocode**](https://github.com/bertrandkeller/jekyll-geocode) ★1 (gem: [jekyll-geocode](https://rubygems.org/gems/jekyll-geocode)) by Bertrand Keller -- geo-encode addresses from a datafile for drawing maps
+- [**Maps**](https://github.com/ayastreb/jekyll-maps) ★18 (gem: [jekyll-maps](https://rubygems.org/gems/jekyll-maps)) by Anatoliy Yastreb -- embed maps with filterable locations
+
+
+## Text Filters
 
 - [**Time Ago**](https://github.com/markets/jekyll-timeago) ★44 (gem: [jekyll-timeago](https://rubygems.org/gems/jekyll-timeago)) -- Converts a time value to the time ago in words.
 - [**Puralize**](https://github.com/bdesham/pluralize) ★15 (gem: [liquid_pluralize](https://rubygems.org/gems/liquid_pluralize)) by Benjamin Esham -- Easily combine a number and a word into a grammatically-correct amount like “1 minute” or “2 minute**s**”.
@@ -157,21 +158,32 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Content Blocks**](https://github.com/rustygeldmacher/jekyll-contentblocks) ★67 (gem: [jekyll-contentblocks](https://rubygems.org/gems/jekyll-contentblocks)) by Rusty Geldmacher  -- Lets you use Rails-like content_for tags in your templates, for passing content from your posts up to your layouts.
 - [**Beastie Press**](https://github.com/okeeblow/jekyll-beastiepress) ★4  (gem: [jekyll-beastiepress](https://rubygems.org/gems/jekyll-beastiepress)) -- FreeBSD utility tags.
 - [**SWF Object**](https://github.com/sectore/jekyll-swfobject) ★2 (gem: [jekyll-swfobject](https://rubygems.org/gems/jekyll-swfobject)) -- Liquid plugin for embedding Adobe Flash files (.swf) using SWFObject.
-- [**Picture Tag**](https://github.com/robwierzbowski/jekyll-picture-tag) ★296 (gem: [jekyll-picture-tag](https://rubygems.org/gems/jekyll-picture-tag)) -- Easy responsive images for Jekyll. Based on the proposed `<picture>` element, polyfilled with Scott Jehl's Picturefill.
-- [**Responsive Image**](https://github.com/wildlyinaccurate/jekyll-responsive-image) ★36 (gem: [jekyll-responsive_image](https://rubygems.org/gems/jekyll-responsive_image)) -- Responsive images for Jekyll. Automatically resizes images, supports all responsive methods (`<picture>`, `srcset`, Imager.js, etc), super-flexible configuration.
 - [**Date Chart**](https://github.com/GSI/jekyll_date_chart) ★5 (gem: [jekyll_date_chart](https://rubygems.org/gems/jekyll_date_chart)) -- Block that renders date line charts based on textile-formatted tables.
-- [**Image Encode**](https://github.com/GSI/jekyll_image_encode) ★8 (gem: [jekyll_image_encode](https://rubygems.org/gems/jekyll_image_encode)) -- Tag that renders base64 codes of images fetched from the web.
 - [**Quick Man**](https://github.com/GSI/jekyll_quick_man) ★4 (gem: [jekyll_quick_man](https://rubygems.org/gems/jekyll_quick_man)) -- Tag that renders pretty links to man page sources on the internet.
-- [**Figure**](https://github.com/lmullen/jekyll_figure) ★18 (gem: [jekyll_figure](https://rubygems.org/gems/jekyll_figure)) -- Generate figures and captions with links to the figure in a variety of formats
-- [**Figure**](https://github.com/paulrobertlloyd/jekyll-figure) ★7 (gem: [jekyll-figure](https://rubygems.org/gems/jekyll-figure)) -- A liquid tag for Jekyll that generates `<figure>` elements.
 - [**GitHub Sample Tag**](https://github.com/bwillis/jekyll-github-sample) ★17 (gem: [jekyll_github_sample](https://rubygems.org/gems/jekyll_github_sample)) -- A liquid tag to include a sample of a github repo file in your Jekyll site.
 - [**Project Version Tag**](https://github.com/rob-murray/jekyll-version-plugin) ★7 (gem: [jekyll_version_plugin](https://rubygems.org/gems/jekyll_version_plugin)) -- A Liquid tag plugin that renders a version identifier for your Jekyll site sourced from the git repository containing your code.
 - [**Webmention.io**](https://github.com/aarongustafson/jekyll-webmention_io) ★42 by Aaron Gustafson -- A plugin to enable webmention integration using Webmention.io. Includes an optional JavaScript for updating webmentions automatically between publishes and, if available, in realtime using WebSockets.
 - [**Inline Highlight**](https://github.com/bdesham/inline_highlight) ★10 (gem: [jekyll_inline_highlight](https://rubygems.org/gems/jekyll_inline_highlight))  -- a tag for inline syntax highlighting.
 - [**Mermaid**](https://github.com/jasonbellamy/jekyll-mermaid) ★17 (gem: [jekyll-mermaid](https://rubygems.org/gems/jekyll-mermaid)) -- Simplify the creation of mermaid diagrams and flowcharts in your posts and pages.
-- [**Asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★11 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- a tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
-- [**Youtube**](https://github.com/dommmel/jekyll-youtube) ★7 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- a Liquid tag that embeds Youtube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
 - [**Giphy**](https://github.com/vfalanis/jekyll-giphy) (gem: [jekyll-giphy](https://rubygems.org/gems/jekyll-giphy)) --  a plugin for embedding random giphy GIFs on Jekyll sites according to a user defined topic.
+
+
+## Generators
+
+- [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
+- [**Compass**](https://github.com/mscharley/jekyll-compass) ★51, gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site
+- [**Autolink Email**](https://github.com/ivantsepp/jekyll-autolink_email) ★6, gem: [jekyll-autolink_email](https://rubygems.org/gems/jekyll-autolink_email) by Ivan Tse -- Autolink your emails.
+- [**Git Metadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★24, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- expose Git metadata for your templates
+- [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
+- [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
+
+
+## Converters
+
+- [**Slim**](https://github.com/slim-template/jekyll-slim) ★25, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags.
+- [**AsciiDoc**](https://github.com/asciidoctor/jekyll-asciidoc) ★84, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
+- [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★1, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
+
 
 
 ## Other
