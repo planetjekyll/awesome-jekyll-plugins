@@ -11,10 +11,11 @@ Awesome Series @ Planet Jekyll
 A collection of awesome Jekyll plugins adding converters, generators, filters & tags,
 importers, new commands & switches, and more.
 
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
 > Note: See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins 
 > listed here; add your plugin here to get added - thanks!
 
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 ## Documentation
 
@@ -53,6 +54,8 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Textile::Converter**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter
 - [**Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★18 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- a CoffeeScript converter
 - [**Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- convert your Ruby into JavaScript using Opal
+
+<!-- new list -->
 
  _New Commands & Switches_
 
@@ -188,14 +191,14 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Autoprefixer**](https://github.com/vwochnik/jekyll-autoprefixer) ★0 (gem: [jekyll-autoprefixer](https://rubygems.org/gems/jekyll-autoprefixer))  -- autoprefixer integration for Jekyll
 
 
-## Upload & Deploy
-
-- [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★2 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- Adds a `deploy` sub-command
-
-
 ## Admin & Visual Editors
 
 - [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- adds a traditional content management system-style graphical interface to author content and administer sites
+
+
+## Upload & Deploy
+
+- [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★2 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- Adds a `deploy` sub-command
 
 
 ## More
