@@ -203,7 +203,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 ## More
 
-> Note: For all scripts & pasties, see the [scripts & pasties](PASTIES.md) page.
+> Note: For all jekyll plugin scripts & pasties, see the [scripts & pasties](PASTIES.md) page.
 
 
 ## Meta
