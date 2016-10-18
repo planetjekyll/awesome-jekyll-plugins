@@ -99,6 +99,16 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Geocode**](https://github.com/bertrandkeller/jekyll-geocode) ★1 (gem: [jekyll-geocode](https://rubygems.org/gems/jekyll-geocode)) by Bertrand Keller -- geo-encode addresses from a datafile for drawing maps
 
+## Tags & Taggings, Categories & Categorizations
+
+- [**tagging**](https://github.com/pattex/jekyll-tagging) ★194 (gem: [jekyll-tagging](https://rubygems.org/gems/jekyll-tagging)) -- plugin to automatically generate a tag cloud and tag pages.
+- [**tagging-related_posts**](https://github.com/toshimaru/jekyll-tagging-related_posts) ★5 (gem: [jekyll-tagging-related_posts](https://rubygems.org/gems/jekyll-tagging-related_posts)) -- related_posts function based on tags
+
+## Pagination
+
+- [**pagination**](https://github.com/blackwinter/jekyll-pagination) ★36 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator.
+
+
 ## Generators
 
 - [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
@@ -154,22 +164,21 @@ _(Auto-)Included w/ "Standard" Install_
 - [**giphy**](https://github.com/vfalanis/jekyll-giphy) (gem: [jekyll-giphy](https://rubygems.org/gems/jekyll-giphy)) --  A plugin for embedding random giphy GIFs on Jekyll sites according to a user defined topic.
 
 
-
-
 ## Other
 
-- [**tagging-related_posts**](https://github.com/toshimaru/jekyll-tagging-related_posts) ★5 (gem: [jekyll-tagging-related_posts](https://rubygems.org/gems/jekyll-tagging-related_posts)) -- related_posts function based on tags
 - [**rendering**](https://github.com/blackwinter/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- plugin to provide alternative rendering engines.
-- [**pagination**](https://github.com/blackwinter/jekyll-pagination) ★36 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator.
-- [**tagging**](https://github.com/pattex/jekyll-tagging) ★194 (gem: [jekyll-tagging](https://rubygems.org/gems/jekyll-tagging)) -- plugin to automatically generate a tag cloud and tag pages.
 - [**Asset Pipeline Reborn**](https://github.com/kitsched/japr) ★39 (gem: [japr](https://rubygems.org/gems/japr)) - Powerful asset pipeline that collects, converts and compresses JavaScript and CSS assets.
 - [**minibundle**](https://github.com/tkareine/jekyll-minibundle) ★35 (gem: [jekyll-minibundle](https://rubygems.org/gems/jekyll-minibundle)) -- Asset bundling and cache busting using external minification tool of your choice. No gem dependencies.
 - [**minifier**](https://github.com/digitalsparky/jekyll-minifier) ★27 (gem: [jekyll-minifier](https://rubygems.org/gems/jekyll-minifier)) -- Minifies HTML, XML, CSS, and Javascript both inline and as separate files utilising yui-compressor and htmlcompressor.
-- [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★2 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- Adds a `deploy` sub-command
 - [**Official Contentful Plugin**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
 - [**paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★0 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- Sell your posts in various formats for cryptocurrencies.
 - [**Hawkins**](https://github.com/awood/hawkins) ★4 (gem: [hawkins](https://rubygems.org/gems/hawkins)) -- Adds a `liveserve` sub-command to Jekyll that incorporates LiveReload into your pages while you preview them.  No more hitting the refresh button in your browser!
 - [**Autoprefixer**](https://github.com/vwochnik/jekyll-autoprefixer) ★0 (gem: [jekyll-autoprefixer](https://rubygems.org/gems/jekyll-autoprefixer))  -- Autoprefixer integration for Jekyll
+
+
+## Upload & Deploy
+
+- [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★2 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- Adds a `deploy` sub-command
 
 
 ## Meta
