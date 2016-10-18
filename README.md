@@ -8,22 +8,17 @@ Awesome Series @ Planet Jekyll
 
 # Awesome (Gem-Packaged) Jekyll Plugins
 
-A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.) adding converters, generators, filters & tags,
+A collection of awesome Jekyll plugins adding converters, generators, filters & tags,
 importers, new commands & switches, and more.
 
-> Note: For all scripts & pasties, see the [PASTIES.md](PASTIES.md) page.
-
+> Note: See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins 
+> listed here; add your plugin here to get added - thanks!
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 ## Documentation
 
 See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
-
-
-## Directories / Listings
-
-See the [Plugins Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins listed here; add your plugin here to get added - thanks!
 
 
 ## Official Plugins
@@ -63,11 +58,6 @@ _(Auto-)Included w/ "Standard" Install_
 
 - [**Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- streamline your writing with these commands
 - [**Importers**](https://github.com/jekyll/jekyll-import) ★167 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "import" command for importing from various blogs
-
-
-## Admin & Visual Editors
-
-- [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- adds a traditional content management system-style graphical interface to author content and administer sites
 
 
 ## Settings & Configurations Tweaks
@@ -201,6 +191,16 @@ _(Auto-)Included w/ "Standard" Install_
 ## Upload & Deploy
 
 - [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★2 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- Adds a `deploy` sub-command
+
+
+## Admin & Visual Editors
+
+- [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- adds a traditional content management system-style graphical interface to author content and administer sites
+
+
+## More
+
+> Note: For all scripts & pasties, see the [scripts & pasties](PASTIES.md) page.
 
 
 ## Meta
