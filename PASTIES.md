@@ -55,6 +55,7 @@ importers, new commands & switches, and more.
 **Scripts**
 
 - [**Jade plugin**](https://github.com/snappylabs/jade-jekyll-plugin) ★45 by John Papandriopoulos -- Jade converter for Jekyll.
+- [**Pug plugin**](https://github.com/mdxprograms/pug-jekyll-plugin) ★7 by Josh Waller -- Pug (previously Jade) converter for Jekyll
 - [**Markdown References**](https://github.com/olov/jekyll-references) ★27 by Olov Lassus -- Keep all your markdown reference-style link definitions in one \_references.md file.
 - [**ReStructuredText Converter**](https://github.com/xdissent/jekyll-rst) ★42 -- Converts ReST documents to HTML with Pygments syntax highlighting.
 - [**Jekyll-pandoc-plugin**](https://github.com/dsanson/jekyll-pandoc-plugin) ★48 -- Use pandoc for rendering markdown.
