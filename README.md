@@ -1,6 +1,6 @@
 Awesome Series @ Planet Jekyll
 
-[Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
+[Jekyll](https://github.com/planetjekyll/awesome-jekyll) •
 [Jekyll Themes](https://github.com/planetjekyll/awesome-jekyll-themes) •
 [Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) •
 [Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
@@ -13,7 +13,7 @@ importers, new commands & switches, and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-> Note: See the [Plugins & Extensions Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins 
+> Note: See the [Plugins & Extensions Page @ Planet Jekyll](http://planetjekyll.github.io/plugins) - listing all gem-packaged plugins
 > listed here; add your plugin here to get added - thanks!
 
 
@@ -76,7 +76,7 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★23 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
 - [**Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
 - [**i18n Tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★1 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
-- [**Localization**](https://github.com/blackwinter/jekyll-localization) ★53 (gem: [jekyll-localization](https://rubygems.org/gems/jekyll-localization))  --  plugin that adds localization features to the rendering engine.
+- [**Localization**](https://github.com/prometheus-ev/jekyll-localization) ★53 (gem: [jekyll-localization](https://rubygems.org/gems/jekyll-localization))  --  plugin that adds localization features to the rendering engine.
 
 
 ## Search
@@ -102,7 +102,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 ## Pagination
 
-- [**Pagination**](https://github.com/blackwinter/jekyll-pagination) ★36 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator.
+- [**Pagination**](https://github.com/prometheus-ev/jekyll-pagination) ★36 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator.
 - [**Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★4, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- pagination generator for category
 
 
@@ -180,7 +180,7 @@ _(Auto-)Included w/ "Standard" Install_
 
 ## Other
 
-- [**Rendering**](https://github.com/blackwinter/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
+- [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
 - [**Asset Pipeline Reborn**](https://github.com/kitsched/japr) ★39 (gem: [japr](https://rubygems.org/gems/japr)) - powerful asset pipeline that collects, converts and compresses JavaScript and CSS assets.
 - [**Mini Bundle**](https://github.com/tkareine/jekyll-minibundle) ★35 (gem: [jekyll-minibundle](https://rubygems.org/gems/jekyll-minibundle)) -- asset bundling and cache busting using external minification tool of your choice. No gem dependencies.
 - [**Minifier**](https://github.com/digitalsparky/jekyll-minifier) ★27 (gem: [jekyll-minifier](https://rubygems.org/gems/jekyll-minifier)) -- minifies HTML, XML, CSS, and Javascript both inline and as separate files utilising yui-compressor and htmlcompressor.
