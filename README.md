@@ -197,12 +197,17 @@ _(Auto-)Included w/ "Standard" Install_
 
 ## Authentication & Authorization
 
-- [**Auth**](https://github.com/benbalter/jekyll-auth) ★401 (gem: [jekyll-auth](https://rubygems.org/gems/jekyll-auth)) by Ben Balter et al -- use GitHub OAuth to serve a protected site to your GitHub org
+- [**GitHub OAuth**](https://github.com/benbalter/jekyll-auth) ★401 (gem: [jekyll-auth](https://rubygems.org/gems/jekyll-auth)) by Ben Balter et al -- use GitHub OAuth to serve a protected site to your GitHub org
 
 
 ## Admin & Visual Editors
 
 - [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- adds a traditional content management system-style graphical interface to author content and administer sites
+
+
+## Testing & Proofing
+
+- [**Front Matter Tests**](https://github.com/18F/jekyll_frontmatter_tests) ★11 (gem: [jekyll_frontmatter_tests](https://rubygems.org/gems/jekyll_frontmatter_tests)) by Greg Boone et al -- tests the front matter of posts and other collection documents against a schema
 
 
 ## Upload & Deploy
