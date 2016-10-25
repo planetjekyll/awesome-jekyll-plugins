@@ -121,8 +121,13 @@ _(Auto-)Included w/ "Standard" Install_
 
 ## Videos & Screencasts
 
-- [**Youtube**](https://github.com/dommmel/jekyll-youtube) ★7 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- a Liquid tag that embeds Youtube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
+- [**YouTube**](https://github.com/dommmel/jekyll-youtube) ★7 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- a Liquid tag that embeds YouTube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
 - [**Asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★11 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- a tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
+
+
+## Audios & Podcasts
+
+- [**Octopod**](https://github.com/jekyll-octopod/jekyll-octopod) ★25 (gem: [jekyll-octopod](https://rubygems.org/gems/jekyll-octopod)) by Stefan Haslinger, Arne Eilermann, et al -- a podcast publishing extension
 
 
 ## Geocoding & Maps
