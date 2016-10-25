@@ -195,6 +195,11 @@ _(Auto-)Included w/ "Standard" Install_
 - [**Autoprefixer**](https://github.com/vwochnik/jekyll-autoprefixer) ★0 (gem: [jekyll-autoprefixer](https://rubygems.org/gems/jekyll-autoprefixer))  -- autoprefixer integration for Jekyll
 
 
+## Authentication & Authorization
+
+- [**Auth**](https://github.com/benbalter/jekyll-auth) ★401 (gem: [jekyll-auth](https://rubygems.org/gems/jekyll-auth)) by Ben Balter et al -- use GitHub OAuth to serve a protected site to your GitHub org
+
+
 ## Admin & Visual Editors
 
 - [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- adds a traditional content management system-style graphical interface to author content and administer sites
