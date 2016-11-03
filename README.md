@@ -82,6 +82,11 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Image Encode Tag**](https://github.com/GSI/jekyll_image_encode) ★8 (gem: [jekyll_image_encode](https://rubygems.org/gems/jekyll_image_encode)) -- tag that renders base64 codes of images fetched from the web.
 - [**Cloudinary**](https://github.com/nhoizey/jekyll-cloudinary) ★11 (gem: [jekyll-cloudinary](https://rubygems.org/gems/jekyll-cloudinary)) by Nicolas Hoizey -- tag to use Cloudinary for optimized responsive posts images.
 
+<!-- add a new category for bundled icons / images - why? why not? -->
+
+- [**Octicons**](https://github.com/primer/jekyll-octicons) ★11 (gem: [jekyll-octicons](https://rubygems.org/gems/jekyll-octicons)) -- liquid plugin that makes including svg Octicons simple
+
+
 ## Videos & Screencasts
 
 - [**YouTube**](https://github.com/dommmel/jekyll-youtube) ★7 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- a Liquid tag that embeds YouTube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
@@ -150,7 +155,6 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Generators
 
 - [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
-- [**Compass**](https://github.com/mscharley/jekyll-compass) ★51, gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site
 - [**Autolink Email**](https://github.com/ivantsepp/jekyll-autolink_email) ★6, gem: [jekyll-autolink_email](https://rubygems.org/gems/jekyll-autolink_email) by Ivan Tse -- Autolink your emails.
 - [**Git Metadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★24, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- expose Git metadata for your templates
 - [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
@@ -171,7 +175,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`   **#Official** **#GitHub Pages**
 - [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
 - [**Contentful**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
-- [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★0 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
+- [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★2 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
 
 
 ## Assets & Converters & Minifiers
@@ -182,6 +186,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Mini Bundle**](https://github.com/tkareine/jekyll-minibundle) ★35 (gem: [jekyll-minibundle](https://rubygems.org/gems/jekyll-minibundle)) -- asset bundling and cache busting using external minification tool of your choice. No gem dependencies.
 - [**Minifier**](https://github.com/digitalsparky/jekyll-minifier) ★27 (gem: [jekyll-minifier](https://rubygems.org/gems/jekyll-minifier)) -- minifies HTML, XML, CSS, and Javascript both inline and as separate files utilising yui-compressor and htmlcompressor.
 - [**Autoprefixer**](https://github.com/vwochnik/jekyll-autoprefixer) ★0 (gem: [jekyll-autoprefixer](https://rubygems.org/gems/jekyll-autoprefixer))  -- autoprefixer integration for Jekyll
+- [**Compass**](https://github.com/mscharley/jekyll-compass) ★51, gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site
 
 <!-- new list; use new category for js only converter- why? why not?? -->
 
