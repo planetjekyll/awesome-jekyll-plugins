@@ -145,7 +145,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Giphy**](https://github.com/vfalanis/jekyll-giphy) (gem: [jekyll-giphy](https://rubygems.org/gems/jekyll-giphy)) --  a plugin for embedding random giphy GIFs on Jekyll sites according to a user defined topic.
 
 
-## Search Engine Optimazation (SEO) & Redirects
+## Search Engine Optimization (SEO) & Redirects
 
 - [**SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- a plugin to add metadata tags for search engines and social networks to better index and display your site's content   **#Official** **#GitHub Pages**
 - [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★270 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#Official** **#GitHub Pages**
