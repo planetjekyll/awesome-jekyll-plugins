@@ -37,6 +37,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
 - [**i18n Tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★1 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
 - [**Localization**](https://github.com/prometheus-ev/jekyll-localization) ★53 (gem: [jekyll-localization](https://rubygems.org/gems/jekyll-localization))  --  plugin that adds localization features to the rendering engine.
+- [**Jekyll Language Plugin**](https://github.com/vwochnik/jekyll-language-plugin) ★33 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin))  --  multi-language plugin for posts, pages and includes.
 
 
 ## Search
@@ -164,6 +165,8 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Commands & Switches
 
 - [**Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- streamline your writing with these commands  **#Official**
+- [**Jekyll Deploy**](https://github.com/vwochnik/jekyll-deploy) ★9 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- deploy plugin
+
 
 ## Importers
 
