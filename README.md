@@ -168,7 +168,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Commands & Switches
 
 - [**Compose**](https://github.com/jekyll/jekyll-compose) ★120 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- streamline your writing with these commands  **#Official**
-
+- [**jekyll-gitlab-letsencrypt**](https://github.com/JustinAiken/jekyll-gitlab-letsencrypt) ★1 (gem: [jekyll-gitlab-letsencrypt](https://rubygems.org/gems/jekyll-gitlab-letsencrypt)) -- Automate letsencrypt requests/renewals for gitlab pages
 
 ## Importers
 
