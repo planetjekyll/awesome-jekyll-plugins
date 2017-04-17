@@ -29,6 +29,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Title from Headings**](https://github.com/benbalter/jekyll-title-from-headings) ★2 (gem: [titles-from-headings](https://rubygems.org/gems/titles-from-headings)) by Ben Balter --  pull page title from fist markdown heading when none is specified
 - [**Readme Index**](https://github.com/benbalter/jekyll-readme-index) ★1 (gem: [jekyll-readme-index](https://rubygems.org/gems/jekyll-readme-index)) by Ben Balter -- render a project's README as the site's index
 - [**Data**](https://github.com/ashmaroli/jekyll-data) ★2 (gem: [jekyll-data](https://rubygems.org/gems/jekyll-data)) by Ashwin Maroli -- read datafiles in themes
+- [**Analytics**](https://github.com/hendrik91/jekyll-analytics) (gem: [jekyll-analytics](https://rubygems.org/gems/jekyll-analytics)) by Hendrik Schneider -- Adds webtracking easily to your site. Supports multiple trackers like Google Analytics, Piwik, ...
 
 
 ## Multi Language / Multi Lingual
