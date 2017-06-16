@@ -54,7 +54,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Bibliography & Citiations
 
 - [**Scholar**](https://github.com/inukshuk/jekyll-scholar) ★328 (gem: [jekyll-scholar](https://rubygems.org/gems/jekyll-scholar)) by Sylvester Keil  -- extensions for the blogging scholar.
-
+- [**BibSonomy**](https://github.com/rjoberon/bibsonomy-jekyll) ★1 (gem: [bibsonomy-jekyll](https://rubygems.org/gems/bibsonomy-jekyll)) - generate publication lists from [BibSonomy](https://www.bibsonomy.org/).
 
 ## Tags & Taggings, Categories & Categorizations
 
