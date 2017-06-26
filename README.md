@@ -41,6 +41,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 
 ## Search
+- [**Algolia**](https://github.com/algolia/algoliasearch-jekyll) ★103 (gem: [algoliasearch-jekyll](https://rubygems.org/gems/algoliasearch-jekyll/versions/0.8.0))  --  Jekyll plugin to automatically index your Jekyll posts and pages into an Algolia index.
 
 <!-- add search gems here -->
 
