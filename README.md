@@ -148,7 +148,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Mermaid**](https://github.com/jasonbellamy/jekyll-mermaid) ★17 (gem: [jekyll-mermaid](https://rubygems.org/gems/jekyll-mermaid)) -- Simplify the creation of mermaid diagrams and flowcharts in your posts and pages.
 - [**Giphy**](https://github.com/vfalanis/jekyll-giphy) (gem: [jekyll-giphy](https://rubygems.org/gems/jekyll-giphy)) --  a plugin for embedding random giphy GIFs on Jekyll sites according to a user defined topic.
 - [**PlantUML**](https://github.com/yegor256/jekyll-plantuml) ★9 (gem: [jekyll-plantuml](https://rubygems.org/gems/jekyll-plantuml)) -- Tag that renders UML diagrams using [PlantUML](http://plantuml.com/).
-
+- [**Jekyll oEmbed**](https://github.com/18F/jekyll-oembed) (gem: [jekyll_oembed](https://rubygems.org/gems/jekyll_oembed)) -- The tag version of [ruby-oembed](https://github.com/ruby-oembed/ruby-oembed), letting you easily get embeddable HTML representations of supported web pages, based on their URLs.
 
 ## Search Engine Optimization (SEO) & Redirects
 
