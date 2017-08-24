@@ -130,6 +130,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Roman**](https://github.com/paulrobertlloyd/jekyll-roman) ★2  (gem: [jekyll-roman](https://rubygems.org/gems/jekyll-roman)) by Paul Robert Lloyd -- A liquid filter for Jekyll that converts numbers into Roman numerals
 - [**Typogrify**](https://github.com/myles/jekyll-typogrify) ★5 (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) by Myles Braithwaite -- A Jekyll plugin that brings the functions of typogruby.
 - [**Email Protect**](https://github.com/vwochnik/jekyll-email-protect) ★13 (gem: [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect)) by Vincent Wochnik -- Email protection liquid filter for Jekyll
+- [**Jekyll Liquify**](https://github.com/gemfarmer/jekyll-liquify) ★2 (gem: [jekyll-liquify](https://rubygems.org/gems/jekyll-liquify)) a filter that parses Liquid from front matter
 
 
 
@@ -229,6 +230,10 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Upload & Deploy
 
 - [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★9 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- adds a `deploy` command
+
+## Debugging
+
+- [**Jekyll Debug**](https://github.com/gemfarmer/jekyll-debug) (gem: [jekyll-debug](https://rubygems.org/gems/jekyll-debug)) a filter that allows a user to debug liquid filters and tags at runtime
 
 
 ## More
