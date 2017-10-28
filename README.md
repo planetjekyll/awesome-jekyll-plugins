@@ -26,7 +26,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**Default Layout**](https://github.com/benbalter/jekyll-default-layout) ★1 (gem: [jekyll-default-layout](https://rubygems.org/gems/jekyll-default-layout)) by Ben Balter -- silently sets default layouts for pages and posts
 - [**Optional Front Matter**](https://github.com/benbalter/jekyll-optional-front-matter) ★4 (gem: [jekyll-optional-front-matter](https://rubygems.org/gems/jekyll-optional-front-matter)) by Ben Balter -- makes front matter optional for markdown files
-- [**Title from Headings**](https://github.com/benbalter/jekyll-title-from-headings) ★2 (gem: [titles-from-headings](https://rubygems.org/gems/titles-from-headings)) by Ben Balter --  pull page title from fist markdown heading when none is specified
+- [**Title from Headings**](https://github.com/benbalter/jekyll-title-from-headings) ★2 (gem: [titles-from-headings](https://rubygems.org/gems/titles-from-headings)) by Ben Balter --  pull page title from first markdown heading when none is specified
 - [**Readme Index**](https://github.com/benbalter/jekyll-readme-index) ★1 (gem: [jekyll-readme-index](https://rubygems.org/gems/jekyll-readme-index)) by Ben Balter -- render a project's README as the site's index
 - [**Data**](https://github.com/ashmaroli/jekyll-data) ★2 (gem: [jekyll-data](https://rubygems.org/gems/jekyll-data)) by Ashwin Maroli -- read datafiles in themes
 
