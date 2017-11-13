@@ -111,7 +111,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Markup & Markdown Converters
 
-- [**Pug**](https://jekyll-pug.dougie.io/)
+- [**Pug**](https://jekyll-pug.dougie.io), gem: [jekyll-pug](https://rubygems.org/gems/jekyll-pug) -- convert Pug files into HTML
 - [**Slim**](https://github.com/slim-template/jekyll-slim) ★25, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags.
 - [**AsciiDoc**](https://github.com/asciidoctor/jekyll-asciidoc) ★84, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
 - [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★1, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
