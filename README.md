@@ -170,7 +170,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Git Metadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★24, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- expose Git metadata for your templates
 - [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
 - [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
-
+- [**Premonition**](https://github.com/amedia/premonition) *1, gem [premonition](https://rubygems.org/gems/premonition)  by Amedia Utvikling -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
 
 ## Commands & Switches
 
