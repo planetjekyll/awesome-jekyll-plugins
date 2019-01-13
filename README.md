@@ -6,7 +6,8 @@ Awesome Series @ Planet Jekyll
 [Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 
 
-# Awesome (Gem-Packaged) Jekyll Plugins
+# Awesome (Gem-Packaged) Jekyll Plugins 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A collection of awesome Jekyll plugins adding converters, generators, filters & tags,
 importers, new commands & switches, and more.
