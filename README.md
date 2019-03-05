@@ -25,6 +25,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Settings & Configurations Tweaks
 
+- [**GitHub-Pages Unscramble**](https://github.com/jamesluberda/github-pages-unscramble) (gem: [github-pages-unscramble](https://rubygems.org/gems/github-pages-unscramble)) by James Luberda -- locally undoes the changes the GitHub pages plugin makes to a site's original plugin_dir and safe configuration settings and loads any file-based plugins in plugins_dir as well as any blocked plugins in _config.yml
 - [**Default Layout**](https://github.com/benbalter/jekyll-default-layout) ★1 (gem: [jekyll-default-layout](https://rubygems.org/gems/jekyll-default-layout)) by Ben Balter -- silently sets default layouts for pages and posts
 - [**Optional Front Matter**](https://github.com/benbalter/jekyll-optional-front-matter) ★4 (gem: [jekyll-optional-front-matter](https://rubygems.org/gems/jekyll-optional-front-matter)) by Ben Balter -- makes front matter optional for markdown files
 - [**Title from Headings**](https://github.com/benbalter/jekyll-title-from-headings) ★2 (gem: [titles-from-headings](https://rubygems.org/gems/titles-from-headings)) by Ben Balter --  pull page title from first markdown heading when none is specified
