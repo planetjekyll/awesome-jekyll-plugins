@@ -220,6 +220,8 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**Admin**](https://github.com/jekyll/jekyll-admin) ★602 (gem: [jekyll-admin](https://rubygems.org/gems/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- adds a traditional content management system-style graphical interface to author content and administer sites  **#Official**
 
+- [**Manager**](https://github.com/jekyll/jekyll-manager) ★20 (gem: [jekyll-manager](https://rubygems.org/gems/jekyll-manager)) by Ashwin Maroli -- An administrative framework for Jekyll sites, Jekyll Manager is essentially Jekyll Admin repackaged with some alterations.
+
 
 ## Watch & Live Reload
 
