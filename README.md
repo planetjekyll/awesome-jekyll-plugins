@@ -191,7 +191,8 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
 - [**Contentful**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
 - [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★2 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
-- [**PWA-Workbox**](https://github.com/souldanger/jekyll-pwa-workbox) ★1 (gem: [jekyll-workbox-plugin](https://rubygems.org/gems/jekyll-pwa-workbox)) -- Makes your PWA/Website available offline, uses a Workbox service-worker, injects a precache list and takes care of the registration process in a secure way.
+- [**PWA-Workbox**](https://github.com/souldanger/jekyll-pwa-workbox) ★1 (gem: [jekyll-pwa-workbox](https://rubygems.org/gems/jekyll-pwa-workbox)) -- Makes your PWA/Website available offline using Workbox. Injects a precache list into the service-worker and takes care of the registration process in a secure way.
+- [**Target Blank**](https://github.com/keithmifsud/jekyll-target-blank) ★1 (gem: [jekyll-target-blank](https://rubygems.org/gems/jekyll-target-blank)) -- Automatically adds `target="_blank"` to external links, can add css-classes and/or various `rel=""` attributes.
 - [**Workbox**](https://github.com/bmeurer/jekyll-workbox-plugin) ★1 (gem: [jekyll-workbox-plugin](https://rubygems.org/gems/jekyll-workbox-plugin)) -- Generate Service Worker using Google Workbox.
 
 
