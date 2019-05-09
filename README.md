@@ -191,6 +191,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
 - [**Contentful**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
 - [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★2 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
+- [**PWA-Workbox**](https://github.com/souldanger/jekyll-pwa-workbox) ★1 (gem: [jekyll-workbox-plugin](https://rubygems.org/gems/jekyll-pwa-workbox)) -- Makes your PWA/Website available offline and allows, uses a Workbox v4, injects a precache list and takes care of the registration process in a secure way.
 - [**Workbox**](https://github.com/bmeurer/jekyll-workbox-plugin) ★1 (gem: [jekyll-workbox-plugin](https://rubygems.org/gems/jekyll-workbox-plugin)) -- Generate Service Worker using Google Workbox.
 
 
