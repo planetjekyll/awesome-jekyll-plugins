@@ -6,7 +6,7 @@ Awesome Series @ Planet Jekyll
 [Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 
 
-# Awesome (Gem-Packaged) Jekyll Plugins 
+# Awesome (Gem-Packaged) Jekyll Plugins
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A collection of awesome Jekyll plugins adding converters, generators, filters & tags,
@@ -88,6 +88,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Image Encode Tag**](https://github.com/GSI/jekyll_image_encode) ★8 (gem: [jekyll_image_encode](https://rubygems.org/gems/jekyll_image_encode)) -- tag that renders base64 codes of images fetched from the web.
 - [**Cloudinary**](https://github.com/nhoizey/jekyll-cloudinary) ★48 (gem: [jekyll-cloudinary](https://rubygems.org/gems/jekyll-cloudinary)) by Nicolas Hoizey -- tag to use Cloudinary for optimized responsive posts images.
 - [**WebP Image Generator**](https://github.com/sverrirs/jekyll-webp) ★2 (gem: [jekyll-webp](https://rubygems.org/gems/jekyll-webp)) by Sverrir Sigmundarson et al -- WebP image generator that automatically generate WebP images for all images on your site and serves them when possible
+- [**Image Size**](https://github.com/generalui/jekyll-image-size) ★1 (gem: [jekyll-image-size](https://rubygems.org/gems/jekyll-image-size)) - read images and output image-sizes as: opengraph tags, img-tags, css and more - with retina support
 
 <!-- add a new category for bundled icons / images - why? why not? -->
 
