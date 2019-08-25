@@ -162,6 +162,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★270 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#Official** **#GitHub Pages**
 - [**Redirect From**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts **#Official** **#GitHub Pages**
 
+
 ## Analytics
 
 - [**Analytics**](https://github.com/hendrik91/jekyll-analytics) ★1 (gem: [jekyll-analytics](https://rubygems.org/gems/jekyll-analytics)) by Hendrik Schneider -- adds webtracking easily to your site; supports multiple trackers like Google Analytics, Piwik, etc.
@@ -169,12 +170,13 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Generators
 
-- [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★59, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
+- [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★86, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
 - [**Autolink Email**](https://github.com/ivantsepp/jekyll-autolink_email) ★6, gem: [jekyll-autolink_email](https://rubygems.org/gems/jekyll-autolink_email) by Ivan Tse -- Autolink your emails.
 - [**Git Metadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★24, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- expose Git metadata for your templates
 - [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
 - [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
-- [**Premonition**](https://github.com/amedia/premonition) *1, gem: [premonition](https://rubygems.org/gems/premonition)  by Amedia Utvikling -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
+- [**Premonition**](https://github.com/amedia/premonition) ★12, gem: [premonition](https://rubygems.org/gems/premonition)  by Amedia Utvikling -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
+
 
 ## Commands & Switches
 
