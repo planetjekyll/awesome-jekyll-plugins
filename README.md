@@ -7,6 +7,7 @@ Awesome Series @ Planet Jekyll
 
 
 # Awesome (Gem-Packaged) Jekyll Plugins
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A collection of awesome Jekyll plugins adding converters, generators, filters & tags,
@@ -43,6 +44,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 
 ## Search
+
 - [**Algolia**](https://github.com/algolia/jekyll-algolia) ★30 (gem: [jekyll-algolia](https://rubygems.org/gems/jekyll-algolia/))  --  Add fast and relevant search to your Jekyll site using the Algolia API.
 - [**Searchyll**](https://github.com/omc/searchyll) ★21 (gem: [searchyll](https://rubygems.org/gems/searchyll/)) - Index your Jekyll pages to Elasticsearch, and works with Github pages.
 
@@ -112,13 +114,12 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Maps**](https://github.com/ayastreb/jekyll-maps) ★18 (gem: [jekyll-maps](https://rubygems.org/gems/jekyll-maps)) by Anatoliy Yastreb -- embed maps with filterable locations
 
 
-
 ## Markup & Markdown Converters
 
 - [**Pug**](https://jekyll-pug.dougie.io), gem: [jekyll-pug](https://rubygems.org/gems/jekyll-pug) -- convert Pug files into HTML
 - [**Slim**](https://github.com/slim-template/jekyll-slim) ★25, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags.
 - [**AsciiDoc**](https://github.com/asciidoctor/jekyll-asciidoc) ★84, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
-- [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★1, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
+- [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★15, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
 - [**Textile**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter  **#Official**
 
 
@@ -138,7 +139,6 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Jekyll Liquify**](https://github.com/gemfarmer/jekyll-liquify) ★2 (gem: [jekyll-liquify](https://rubygems.org/gems/jekyll-liquify)) a filter that parses Liquid from front matter
 
 
-
 ## Tags
 
 - [**Gist**](https://github.com/jekyll/jekyll-gist) ★61 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists   **#Official** **#GitHub Pages**
@@ -156,11 +156,13 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**PlantUML**](https://github.com/yegor256/jekyll-plantuml) ★9 (gem: [jekyll-plantuml](https://rubygems.org/gems/jekyll-plantuml)) -- Tag that renders UML diagrams using [PlantUML](http://plantuml.com/).
 - [**Jekyll oEmbed**](https://github.com/18F/jekyll-oembed) (gem: [jekyll_oembed](https://rubygems.org/gems/jekyll_oembed)) -- The tag version of [ruby-oembed](https://github.com/ruby-oembed/ruby-oembed), letting you easily get embeddable HTML representations of supported web pages, based on their URLs.
 
+
 ## Search Engine Optimization (SEO) & Redirects
 
 - [**SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★67 (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- a plugin to add metadata tags for search engines and social networks to better index and display your site's content   **#Official** **#GitHub Pages**
 - [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★270 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#Official** **#GitHub Pages**
 - [**Redirect From**](https://github.com/jekyll/jekyll-redirect-from) ★216 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts **#Official** **#GitHub Pages**
+
 
 ## Analytics
 
@@ -175,6 +177,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
 - [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
 - [**Premonition**](https://github.com/amedia/premonition) *1, gem: [premonition](https://rubygems.org/gems/premonition)  by Amedia Utvikling -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
+
 
 ## Commands & Switches
 
@@ -211,7 +214,6 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★18 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- a CoffeeScript converter  **#Official**
 - [**Opal**](https://github.com/jekyll/jekyll-opal) ★12 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- convert your Ruby into JavaScript using Opal  **#Official**
-
 
 
 ## Authentication & Authorization
