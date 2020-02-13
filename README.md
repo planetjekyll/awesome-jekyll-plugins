@@ -155,6 +155,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Giphy**](https://github.com/vfalanis/jekyll-giphy) (gem: [jekyll-giphy](https://rubygems.org/gems/jekyll-giphy)) --  a plugin for embedding random giphy GIFs on Jekyll sites according to a user defined topic.
 - [**PlantUML**](https://github.com/yegor256/jekyll-plantuml) ★9 (gem: [jekyll-plantuml](https://rubygems.org/gems/jekyll-plantuml)) -- Tag that renders UML diagrams using [PlantUML](http://plantuml.com/).
 - [**Jekyll oEmbed**](https://github.com/18F/jekyll-oembed) (gem: [jekyll_oembed](https://rubygems.org/gems/jekyll_oembed)) -- The tag version of [ruby-oembed](https://github.com/ruby-oembed/ruby-oembed), letting you easily get embeddable HTML representations of supported web pages, based on their URLs.
+- [**Jekyll PDF Embed**](https://github.com/MihajloNesic/jekyll-pdf-embed) ★3 (gem: [jekyll-pdf-embed](https://rubygems.org/gems/jekyll-pdf-embed)) - Plugin for embedding PDF files to any page or post
 
 
 ## Search Engine Optimization (SEO) & Redirects
