@@ -95,6 +95,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 <!-- add a new category for bundled icons / images - why? why not? -->
 
 - [**Octicons**](https://github.com/primer/jekyll-octicons) ★11 (gem: [jekyll-octicons](https://rubygems.org/gems/jekyll-octicons)) -- liquid plugin that makes including svg Octicons simple
+- [**Jekyll PIG**](https://github.com/clnhlzmn/jekyll-pig) ★1 (gem: [jekyll-pig](https://rubygems.org/gems/jekyll-pig)) - Uses ImageMagick and pig.js to create progressive image galleries for Jekyll sites.
 
 
 ## Videos & Screencasts
