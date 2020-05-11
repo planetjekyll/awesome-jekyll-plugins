@@ -91,6 +91,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**WebP Image Generator**](https://github.com/sverrirs/jekyll-webp) ★2 (gem: [jekyll-webp](https://rubygems.org/gems/jekyll-webp)) by Sverrir Sigmundarson et al -- WebP image generator that automatically generate WebP images for all images on your site and serves them when possible
 - [**Image Size**](https://github.com/generalui/jekyll-image-size) ★1 (gem: [jekyll-image-size](https://rubygems.org/gems/jekyll-image-size)) - read images and output image-sizes as: opengraph tags, img-tags, css and more - with retina support
 - [**Loading Lazy**](https://github.com/gildesmarais/jekyll-loading-lazy) ★1 (gem: [jekyll-loading-lazy](https://rubygems.org/gems/jekyll-loading-lazy)) -- Adds `loading="lazy"` to lazily load your images and iframes without the need for JavaScript.
+- [**jekyll-imgix**](https://github.com/imgix/jekyll-imgix) ★45 (gem: [jekyll-imgix](https://rubygems.org/gems/jekyll-imgix)) -- Transform, optimize, and intelligently cache your entire image library for fast websites and apps. **Commercia**
 
 <!-- add a new category for bundled icons / images - why? why not? -->
 
