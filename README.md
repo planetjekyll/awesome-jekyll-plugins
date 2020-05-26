@@ -198,7 +198,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`   **#Official** **#GitHub Pages**
 - [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
-- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★10 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, youtube, vimeo, dailymotion, etc.
+- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★23 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, emoji, youtube, vimeo, dailymotion, etc.
 - [**Contentful**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
 - [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★2 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
 - [**PWA-Workbox**](https://github.com/souldanger/jekyll-pwa-workbox) ★1 (gem: [jekyll-pwa-workbox](https://rubygems.org/gems/jekyll-pwa-workbox)) -- Makes your PWA/Website available offline using Workbox. Injects a precache list into the service-worker and takes care of the registration process in a secure way.
