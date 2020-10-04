@@ -92,6 +92,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Image Size**](https://github.com/generalui/jekyll-image-size) ★1 (gem: [jekyll-image-size](https://rubygems.org/gems/jekyll-image-size)) - read images and output image-sizes as: opengraph tags, img-tags, css and more - with retina support
 - [**Loading Lazy**](https://github.com/gildesmarais/jekyll-loading-lazy) ★1 (gem: [jekyll-loading-lazy](https://rubygems.org/gems/jekyll-loading-lazy)) -- Adds `loading="lazy"` to lazily load your images and iframes without the need for JavaScript.
 - [**jekyll-imgix**](https://github.com/imgix/jekyll-imgix) ★45 (gem: [jekyll-imgix](https://rubygems.org/gems/jekyll-imgix)) -- Transform, optimize, and intelligently cache your entire image library for fast websites and apps. **Freemium/Commercial**
+- [**jekyll-postfiles**](https://github.com/nhoizey/jekyll-postfiles) ★77 (gem: [jekyll-postfiles](https://rubygems.org/gems/jekyll-postfiles)) -- Ease the management of images (and other files) attached to Markdown blog posts
 
 <!-- add a new category for bundled icons / images - why? why not? -->
 
@@ -182,7 +183,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★30, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
 - [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★6, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
 - [**Premonition**](https://github.com/lazee/premonition) ★12, gem: [premonition](https://rubygems.org/gems/premonition)  by Jakob Vad Nielsen -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
-
+- [**Jekyll Data Pages Generator**](https://github.com/avillafiorita/jekyll-datapage_gen) ★270, gem: [jekyll-datapage-generator](https://rubygems.org/gems/jekyll-datapage-generator)  by Adolfo Villafiorita -- Allows one to specify data files for which we want to generate one HTML page per record.
 
 
 ## Commands & Switches
