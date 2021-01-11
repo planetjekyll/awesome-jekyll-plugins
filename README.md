@@ -249,7 +249,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Upload & Deploy
 
-- [**Jekyll Deploy Action**](https://github.com/jeffreytse/jekyll-deploy-action) ★18 ([jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action)) -- 🪂  A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
+- [**Jekyll Deploy Action**](https://github.com/jeffreytse/jekyll-deploy-action) ★46 ([jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action)) -- 🪂  A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★9 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- adds a `deploy` command
 
 ## Debugging
