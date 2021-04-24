@@ -160,6 +160,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Jekyll oEmbed**](https://github.com/18F/jekyll-oembed) (gem: [jekyll_oembed](https://rubygems.org/gems/jekyll_oembed)) -- The tag version of [ruby-oembed](https://github.com/ruby-oembed/ruby-oembed), letting you easily get embeddable HTML representations of supported web pages, based on their URLs.
 - [**Jekyll PDF Embed**](https://github.com/MihajloNesic/jekyll-pdf-embed) ★3 (gem: [jekyll-pdf-embed](https://rubygems.org/gems/jekyll-pdf-embed)) - Plugin for embedding PDF files to any page or post
 - [**Jekyll Github Chart**](https://github.com/kinduff/jekyll-github-chart) (gem: [jekyll-github-chart](https://rubygems.org/gems/jekyll-github-chart)) - Plugin to generate an SVG of Github contributions data
+- [**Jekyll Twitch**](https://github.com/chaelcodes/jekyll-twitch) (gem: [jekyll-twitch](https://rubygems.org/gems/jekyll-twitch)) - Embed Twitch clips, vods, collections, and even broadcasts!
 
 
 ## Search Engine Optimization (SEO) & Redirects
@@ -199,7 +200,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Other
 
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`   **#Official** **#GitHub Pages**
-- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★102 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
+- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★158 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
 - [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
 - [**Contentful**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
 - [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★2 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
@@ -249,7 +250,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Upload & Deploy
 
-- [**Jekyll Deploy Action**](https://github.com/jeffreytse/jekyll-deploy-action) ★18 ([jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action)) -- 🪂  A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
+- [**Jekyll Deploy Action**](https://github.com/jeffreytse/jekyll-deploy-action) ★46 ([jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action)) -- 🪂  A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★9 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- adds a `deploy` command
 
 ## Debugging
