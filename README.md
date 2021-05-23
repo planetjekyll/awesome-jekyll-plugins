@@ -36,7 +36,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Multi Language / Multi Lingual
 
-- [**Multiple languages**](https://github.com/kurtsson/jekyll-multiple-languages-plugin) ★935 (gem: [jekyll-multiple-languages-plugin](https://rubygems.org/gems/jekyll-multiple-languages-plugin)) by Martin Kurtsson -- I18n support for Jekyll and Octopress
+- [**Multiple languages**](https://github.com/kurtsson/jekyll-multiple-languages-plugin) ★764 (gem: [jekyll-multiple-languages-plugin](https://rubygems.org/gems/jekyll-multiple-languages-plugin)) by Martin Kurtsson -- I18n support for Jekyll and Octopress
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★100 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
 - [**Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
 - [**i18n Tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★1 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
