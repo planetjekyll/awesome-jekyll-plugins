@@ -85,7 +85,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Images & Pictures
 
-- [**Picture Tag**](https://github.com/rbuchberger/jekyll_picture_tag) ★296 (gem: [jekyll_picture_tag](https://rubygems.org/gems/jekyll_picture_tag)) -- Easy responsive images for Jekyll. Based on the proposed `<picture>` element, polyfilled with Scott Jehl's Picturefill.
+- [**Picture Tag**](https://github.com/rbuchberger/jekyll_picture_tag) ★540 (gem: [jekyll_picture_tag](https://rubygems.org/gems/jekyll_picture_tag)) -- Easy responsive images for Jekyll. Based on the proposed `<picture>` element, polyfilled with Scott Jehl's Picturefill.
 - [**Responsive Image**](https://github.com/wildlyinaccurate/jekyll-responsive-image) ★36 (gem: [jekyll-responsive_image](https://rubygems.org/gems/jekyll-responsive_image)) -- Responsive images for Jekyll. Automatically resizes images, supports all responsive methods (`<picture>`, `srcset`, Imager.js, etc), super-flexible configuration.
 - [**Image Encode Tag**](https://github.com/GSI/jekyll_image_encode) ★8 (gem: [jekyll_image_encode](https://rubygems.org/gems/jekyll_image_encode)) -- tag that renders base64 codes of images fetched from the web.
 - [**Cloudinary**](https://github.com/nhoizey/jekyll-cloudinary) ★48 (gem: [jekyll-cloudinary](https://rubygems.org/gems/jekyll-cloudinary)) by Nicolas Hoizey -- tag to use Cloudinary for optimized responsive posts images.
