@@ -162,6 +162,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Jekyll PDF Embed**](https://github.com/MihajloNesic/jekyll-pdf-embed) ★3 (gem: [jekyll-pdf-embed](https://rubygems.org/gems/jekyll-pdf-embed)) - Plugin for embedding PDF files to any page or post
 - [**Jekyll Github Chart**](https://github.com/kinduff/jekyll-github-chart) (gem: [jekyll-github-chart](https://rubygems.org/gems/jekyll-github-chart)) - Plugin to generate an SVG of Github contributions data
 - [**Jekyll Twitch**](https://github.com/chaelcodes/jekyll-twitch) (gem: [jekyll-twitch](https://rubygems.org/gems/jekyll-twitch)) - Embed Twitch clips, vods, collections, and even broadcasts!
+- [**Jekyll Include**](https://github.com/flant/jekyll_include_plugin) ★4 (gem: [jekyll_include_plugin](https://rubygems.org/gems/jekyll_include_plugin)) - Plugin for including local/remote file contents (or a part of it) into your pages.
 
 
 ## Search Engine Optimization (SEO) & Redirects
