@@ -163,6 +163,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Jekyll Github Chart**](https://github.com/kinduff/jekyll-github-chart) (gem: [jekyll-github-chart](https://rubygems.org/gems/jekyll-github-chart)) - Plugin to generate an SVG of Github contributions data
 - [**Jekyll Twitch**](https://github.com/chaelcodes/jekyll-twitch) (gem: [jekyll-twitch](https://rubygems.org/gems/jekyll-twitch)) - Embed Twitch clips, vods, collections, and even broadcasts!
 - [**Jekyll Include**](https://github.com/flant/jekyll_include_plugin) ★4 (gem: [jekyll_include_plugin](https://rubygems.org/gems/jekyll_include_plugin)) - Plugin for including local/remote file contents (or a part of it) into your pages.
+- [**Glossary Tooltip Tag**](https://github.com/erikw/jekyll-glossary_tooltip) (gem: [jekyll-glossary_tooltip](https://rubygems.org/gems/jekyll-glossary_tooltip)) by Erik Westrup - A tag for showing a tooltip with glossary term definitions on mouse hover. Common terms are defined in a shared file that can be re-used across all pages.
 
 
 ## Search Engine Optimization (SEO) & Redirects
