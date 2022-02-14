@@ -125,6 +125,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**AsciiDoc**](https://github.com/asciidoctor/jekyll-asciidoc) ★84, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
 - [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★15, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
 - [**Textile**](https://github.com/jekyll/jekyll-textile-converter) ★1 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter  **#Official**
+- [**Jektex**](https://github.com/yagarea/jektex) ★1, gem: [jektex](https://rubygems.org/gems/jektex) -- Jekyll plugin for blazing fast server side cached LaTeX rendering with support of macros. Enjoy comfort of latex and markdown without cluttering your site with bloated javascript.
 
 
 ## Text Filters
