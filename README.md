@@ -40,7 +40,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★111 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
 - [**Polyglot**](https://github.com/untra/polyglot) ★299 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
 - [**i18n Tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★11 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
-- [**Localization**](https://github.com/prometheus-ev/jekyll-localization) ★68 (gem: [jekyll-localization](https://rubygems.org/gems/jekyll-localization))  --  plugin that adds localization features to the rendering engine. 
+- [**Localization**](https://github.com/prometheus-ev/jekyll-localization) ★68 (gem: [jekyll-localization](https://rubygems.org/gems/jekyll-localization))  --  plugin that adds localization features to the rendering engine. **Archived**
 
 
 ## Search
@@ -73,7 +73,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**Paginate**](https://github.com/jekyll/jekyll-paginate) ★94 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- pagination generator  **#Official** **#GitHub Pages**
 - [**Paginate V2**](https://github.com/sverrirs/jekyll-paginate-v2) ★455 (gem: [jekyll-paginate-v2](https://rubygems.org/gems/jekyll-paginate-v2)) by Sverrir Sigmundarson et al -- enhanced replacement for the old built-in jekyll-paginate
-- [**Pagination**](https://github.com/prometheus-ev/jekyll-pagination) ★44 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator. 
+- [**Pagination**](https://github.com/prometheus-ev/jekyll-pagination) ★44 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator. **Archived**
 - [**Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★38, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- pagination generator for category
 
 
@@ -97,7 +97,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 <!-- add a new category for bundled icons / images - why? why not? -->
 
-- [**Octicons**](https://github.com/primer/jekyll-octicons) ★32 (gem: [jekyll-octicons](https://rubygems.org/gems/jekyll-octicons)) -- liquid plugin that makes including svg Octicons simple. 
+- [**Octicons**](https://github.com/primer/jekyll-octicons) ★32 (gem: [jekyll-octicons](https://rubygems.org/gems/jekyll-octicons)) -- liquid plugin that makes including svg Octicons simple. **Archived**
 - [**Jekyll PIG**](https://github.com/clnhlzmn/jekyll-pig) ★8 (gem: [jekyll-pig](https://rubygems.org/gems/jekyll-pig)) - Uses ImageMagick and pig.js to create progressive image galleries for Jekyll sites.
 
 
@@ -109,7 +109,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Audios & Podcasts
 
-- [**Octopod**](https://github.com/jekyll-octopod/jekyll-octopod) ★114 (gem: [jekyll-octopod](https://rubygems.org/gems/jekyll-octopod)) by Stefan Haslinger, Arne Eilermann, et al -- a podcast publishing extension. 
+- [**Octopod**](https://github.com/jekyll-octopod/jekyll-octopod) ★114 (gem: [jekyll-octopod](https://rubygems.org/gems/jekyll-octopod)) by Stefan Haslinger, Arne Eilermann, et al -- a podcast publishing extension. **Archived**
 
 
 ## Geocoding & Maps
@@ -121,7 +121,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Markup & Markdown Converters
 
 - [**Pug**](https://jekyll-pug.dougie.io), gem: [jekyll-pug](https://rubygems.org/gems/jekyll-pug) -- convert Pug files into HTML
-- [**Slim**](https://github.com/slim-template/jekyll-slim) ★36, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags. 
+- [**Slim**](https://github.com/slim-template/jekyll-slim) ★36, gem: [jekyll-slim](https://rubygems.org/gems/jekyll-slim) -- Slim converter and includes for Jekyll with support for Liquid tags. **Archived**
 - [**AsciiDoc**](https://github.com/asciidoctor/jekyll-asciidoc) ★276, gem: [jekyll-asciidoc](https://rubygems.org/gems/jekyll-asciidoc) -- AsciiDoc convertor for Jekyll using Asciidoctor.
 - [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★29, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
 - [**Textile**](https://github.com/jekyll/jekyll-textile-converter) ★15 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter  **#Official**
@@ -136,7 +136,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Pluralize**](https://github.com/bdesham/pluralize) ★28 (gem: [liquid_pluralize](https://rubygems.org/gems/liquid_pluralize)) by Benjamin Esham -- Easily combine a number and a word into a grammatically-correct amount like “1 minute” or “2 minute**s**”.
 - [**Reading Time**](https://github.com/bdesham/reading_time) ★109 (gem: [liquid_reading_time](https://rubygems.org/gems/liquid_reading_time)) by Benjamin Esham -- Count words and estimate reading time for a piece of text, ignoring HTML elements that are unlikely to contain running text.
 - [**TOC (Table of Contents)**](https://github.com/toshimaru/jekyll-toc) ★260  (gem: [jekyll-toc](https://rubygems.org/gems/jekyll-toc))-- A liquid filter plugin for Jekyll which generates a table of contents.
-- [**Smartify**](https://github.com/pathawks/jekyll-smartify) ★9 (gem: [jekyll-smartify](https://rubygems.org/gems/jekyll-smartify)) by Pat Hawks -- SmartyPants filter. Make &quot;quotes&quot; &ldquo;curly&rdquo;. 
+- [**Smartify**](https://github.com/pathawks/jekyll-smartify) ★9 (gem: [jekyll-smartify](https://rubygems.org/gems/jekyll-smartify)) by Pat Hawks -- SmartyPants filter. Make &quot;quotes&quot; &ldquo;curly&rdquo;. **Archived**
 - [**MD5**](https://github.com/pathawks/liquid-md5) ★13 (gem: [liquid-md5](https://rubygems.org/gems/liquid-md5)) by Pat Hawks  -- Returns an MD5 hash. Helpful for generating Gravatars in templates
 - [**Roman**](https://github.com/paulrobertlloyd/jekyll-roman) ★6  (gem: [jekyll-roman](https://rubygems.org/gems/jekyll-roman)) by Paul Robert Lloyd -- A liquid filter for Jekyll that converts numbers into Roman numerals
 - [**Typogrify**](https://github.com/myles/jekyll-typogrify) ★26 (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) by Myles Braithwaite -- A Jekyll plugin that brings the functions of typogruby.
@@ -159,7 +159,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Mermaid**](https://github.com/jasonbellamy/jekyll-mermaid) ★97 (gem: [jekyll-mermaid](https://rubygems.org/gems/jekyll-mermaid)) -- Simplify the creation of mermaid diagrams and flowcharts in your posts and pages.
 - [**Giphy**](https://github.com/vfalanis/jekyll-giphy) ★16 (gem: [jekyll-giphy](https://rubygems.org/gems/jekyll-giphy)) --  a plugin for embedding random giphy GIFs on Jekyll sites according to a user defined topic.
 - [**PlantUML**](https://github.com/yegor256/jekyll-plantuml) ★39 (gem: [jekyll-plantuml](https://rubygems.org/gems/jekyll-plantuml)) -- Tag that renders UML diagrams using [PlantUML](http://plantuml.com/).
-- [**Jekyll oEmbed**](https://github.com/18F/jekyll-oembed) ★8 (gem: [jekyll_oembed](https://rubygems.org/gems/jekyll_oembed)) -- The tag version of [ruby-oembed](https://github.com/ruby-oembed/ruby-oembed), letting you easily get embeddable HTML representations of supported web pages, based on their URLs. 
+- [**Jekyll oEmbed**](https://github.com/18F/jekyll-oembed) ★8 (gem: [jekyll_oembed](https://rubygems.org/gems/jekyll_oembed)) -- The tag version of [ruby-oembed](https://github.com/ruby-oembed/ruby-oembed), letting you easily get embeddable HTML representations of supported web pages, based on their URLs. **Archived**
 - [**Jekyll PDF Embed**](https://github.com/MihajloNesic/jekyll-pdf-embed) ★35 (gem: [jekyll-pdf-embed](https://rubygems.org/gems/jekyll-pdf-embed)) - Plugin for embedding PDF files to any page or post
 - [**Jekyll Github Chart**](https://github.com/kinduff/jekyll-github-chart) ★4 (gem: [jekyll-github-chart](https://rubygems.org/gems/jekyll-github-chart)) - Plugin to generate an SVG of Github contributions data
 - [**Jekyll Twitch**](https://github.com/chaelcodes/jekyll-twitch) ★6 (gem: [jekyll-twitch](https://rubygems.org/gems/jekyll-twitch)) - Embed Twitch clips, vods, collections, and even broadcasts!
@@ -169,7 +169,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Search Engine Optimization (SEO) & Redirects
 
-- [**Jekyll::NewsSitemap**](https://github.com/skatkov/jekyll-news-sitemap) ★6 (gem: [jekyll-news-sitemap](https://rubygems.org/gems/jekyll-news-sitemap)) -- Jekyll plugin to silently generate Google News Sitemap based on posts  **#Official** **#GitHub Pages** 
+- [**Jekyll::NewsSitemap**](https://github.com/skatkov/jekyll-news-sitemap) ★6 (gem: [jekyll-news-sitemap](https://rubygems.org/gems/jekyll-news-sitemap)) -- Jekyll plugin to silently generate Google News Sitemap based on posts  **#Official** **#GitHub Pages** **Archived**
 - [**SEO Tag**](https://github.com/jekyll/jekyll-seo-tag) ★1.4k (gem: [jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)) -- a plugin to add metadata tags for search engines and social networks to better index and display your site's content   **#Official** **#GitHub Pages**
 - [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★851 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#Official** **#GitHub Pages**
 - [**Redirect From**](https://github.com/jekyll/jekyll-redirect-from) ★691 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts **#Official** **#GitHub Pages**
@@ -205,7 +205,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★215 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`   **#Official** **#GitHub Pages**
 - [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★381 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
-- [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★22 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines. 
+- [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★22 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines. **Archived**
 - [**Contentful**](https://github.com/contentful/jekyll-contentful-data-import) ★94 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
 - [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★10 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
 - [**PWA-Workbox**](https://github.com/souldanger/jekyll-pwa-workbox) ★22 (gem: [jekyll-pwa-workbox](https://rubygems.org/gems/jekyll-pwa-workbox)) -- Makes your PWA/Website available offline using Workbox. Injects a precache list into the service-worker and takes care of the registration process in a secure way.
@@ -222,7 +222,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Mini Bundle**](https://github.com/tkareine/jekyll-minibundle) ★67 (gem: [jekyll-minibundle](https://rubygems.org/gems/jekyll-minibundle)) -- asset bundling and cache busting using external minification tool of your choice. No gem dependencies.
 - [**Minifier**](https://github.com/digitalsparky/jekyll-minifier) ★232 (gem: [jekyll-minifier](https://rubygems.org/gems/jekyll-minifier)) -- minifies HTML, XML, CSS, and Javascript both inline and as separate files utilising yui-compressor and htmlcompressor.
 - [**Autoprefixer**](https://github.com/vwochnik/jekyll-autoprefixer) ★64 (gem: [jekyll-autoprefixer](https://rubygems.org/gems/jekyll-autoprefixer))  -- autoprefixer integration for Jekyll
-- [**Compass**](https://github.com/mscharley/jekyll-compass) ★57 (gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site. 
+- [**Compass**](https://github.com/mscharley/jekyll-compass) ★57 (gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site. **Archived**
 
 <!-- new list; use new category for js only converter- why? why not?? -->
 
@@ -245,12 +245,12 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Watch & Live Reload
 
 - [**Watch**](https://github.com/jekyll/jekyll-watch) ★88 (gem: [jekyll-watch](https://rubygems.org/gems/jekyll-watch)) -- rebuild your site when a file changes with the `--watch` switch **#Official**
-- [**Hawkins**](https://github.com/awood/hawkins) ★57 (gem: [hawkins](https://rubygems.org/gems/hawkins)) -- adds a `liveserve` sub-command to Jekyll that incorporates LiveReload into your pages while you preview them.  No more hitting the refresh button in your browser! 
+- [**Hawkins**](https://github.com/awood/hawkins) ★57 (gem: [hawkins](https://rubygems.org/gems/hawkins)) -- adds a `liveserve` sub-command to Jekyll that incorporates LiveReload into your pages while you preview them.  No more hitting the refresh button in your browser! **Archived**
 
 
 ## Testing & Proofing
 
-- [**Front Matter Tests**](https://github.com/18F/jekyll_frontmatter_tests) ★28 (gem: [jekyll_frontmatter_tests](https://rubygems.org/gems/jekyll_frontmatter_tests)) by Greg Boone et al -- tests the front matter of posts and other collection documents against a schema. 
+- [**Front Matter Tests**](https://github.com/18F/jekyll_frontmatter_tests) ★28 (gem: [jekyll_frontmatter_tests](https://rubygems.org/gems/jekyll_frontmatter_tests)) by Greg Boone et al -- tests the front matter of posts and other collection documents against a schema. **Archived**
 
 
 ## Upload & Deploy
