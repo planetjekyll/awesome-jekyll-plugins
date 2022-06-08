@@ -94,6 +94,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Loading Lazy**](https://github.com/gildesmarais/jekyll-loading-lazy) ★41 (gem: [jekyll-loading-lazy](https://rubygems.org/gems/jekyll-loading-lazy)) -- Adds `loading="lazy"` to lazily load your images and iframes without the need for JavaScript.
 - [**jekyll-imgix**](https://github.com/imgix/jekyll-imgix) ★49 (gem: [jekyll-imgix](https://rubygems.org/gems/jekyll-imgix)) -- Transform, optimize, and intelligently cache your entire image library for fast websites and apps. **Freemium/Commercial**
 - [**jekyll-postfiles**](https://github.com/nhoizey/jekyll-postfiles) ★109 (gem: [jekyll-postfiles](https://rubygems.org/gems/jekyll-postfiles)) -- Ease the management of images (and other files) attached to Markdown blog posts
+- [**jekyll-imgproxy-tag**](https://github.com/jayroh/jekyll-imgproxy-tag) ★0 (gem: [jekyll-imgproxy-tag](https://rubygems.org/gems/jekyll-imgproxy-tag)) -- Generate urls to secure imgproxy images.
 
 <!-- add a new category for bundled icons / images - why? why not? -->
 
