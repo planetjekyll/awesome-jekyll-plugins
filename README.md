@@ -74,7 +74,8 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Paginate**](https://github.com/jekyll/jekyll-paginate) ★94 (gem: [jekyll-paginate](https://rubygems.org/gems/jekyll-paginate)) -- pagination generator  **#Official** **#GitHub Pages**
 - [**Paginate V2**](https://github.com/sverrirs/jekyll-paginate-v2) ★455 (gem: [jekyll-paginate-v2](https://rubygems.org/gems/jekyll-paginate-v2)) by Sverrir Sigmundarson et al -- enhanced replacement for the old built-in jekyll-paginate
 - [**Pagination**](https://github.com/prometheus-ev/jekyll-pagination) ★44 (gem: [jekyll-pagination](https://rubygems.org/gems/jekyll-pagination)) -- plugin to extend the pagination generator. **Archived**
-- [**Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★38, gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category) -- pagination generator for category
+- [**Paginate::Category**](https://github.com/midnightSuyama/jekyll-paginate-category) ★38 (gem: [jekyll-paginate-category](https://rubygems.org/gems/jekyll-paginate-category)) -- pagination generator for category.
+- [**Auto Authors**](https://github.com/gouravkhunger/jekyll-auto-authors) ★7 (gem: [jekyll-auto-authors](https://rubygems.org/gems/jekyll-auto-authors)) -- plugin to auto-generate author pages with pagination!
 
 
 ## Figures & Captions
