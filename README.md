@@ -260,6 +260,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**Jekyll Deploy Action**](https://github.com/jeffreytse/jekyll-deploy-action) ★177 ([jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action)) -- 🪂  A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★33 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- adds a `deploy` command
+- [**ZMediumToJekyll**](https://github.com/ZhgChgLi/ZMediumToJekyll) ★3 -- A public GitHub template repo that can help you easily move your Medium posts to a Jekyll blog and keep them in sync in the future, by simply click 'Use this template' to get started!
 
 ## Debugging
 
