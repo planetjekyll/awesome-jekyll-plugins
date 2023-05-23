@@ -61,6 +61,9 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**Scholar**](https://github.com/inukshuk/jekyll-scholar) ★974 (gem: [jekyll-scholar](https://rubygems.org/gems/jekyll-scholar)) by Sylvester Keil  -- extensions for the blogging scholar.
 - [**BibSonomy**](https://github.com/rjoberon/bibsonomy-jekyll) ★5 (gem: [bibsonomy-jekyll](https://rubygems.org/gems/bibsonomy-jekyll)) - generate publication lists from [BibSonomy](https://www.bibsonomy.org/).
+- [**jekyll_quote**](https://github.com/mslinn/jekyll_quote)
+(gem: [jekyll_quote](https://rubygems.org/gems/jekyll_quote))
+by Mike Slinn &ndash; Formats quotes with an optional citation and link in a Jekyll website.
 
 ## Tags & Taggings, Categories & Categorizations
 
@@ -97,8 +100,14 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**jekyll-postfiles**](https://github.com/nhoizey/jekyll-postfiles) ★109 (gem: [jekyll-postfiles](https://rubygems.org/gems/jekyll-postfiles)) -- Ease the management of images (and other files) attached to Markdown blog posts
 - [**jekyll-imgproxy-tag**](https://github.com/jayroh/jekyll-imgproxy-tag) ★0 (gem: [jekyll-imgproxy-tag](https://rubygems.org/gems/jekyll-imgproxy-tag)) -- Generate urls to secure imgproxy images.
 - [**jekyll-responsive-magick**](https://github.com/lawmurray/jekyll-responsive-magick) ★0 (gem: [jekyll-responsive-magick](https://rubygems.org/gems/jekyll-responsive-magick)) -- Responsive images via `srcset`, `width` and `height` filters, automatic image resizing with ImageMagick.
+- [**jekyll_img**](https://github.com/mslinn/jekyll_img)
+(gem: [jekyll_img](https://rubygems.org/gems/jekyll_img))
+by Mike Slinn. &ndash;
+This versatile plugin embeds responsive images using the &lt;picture&gt; element in documents and pages with alignment options,
+flexible resizing, default styling, overridable styling, an optional caption, and an optional URL.
 
-<!-- add a new category for bundled icons / images - why? why not? -->
+
+## Bundled Icons / Images
 
 - [**Octicons**](https://github.com/primer/jekyll-octicons) ★32 (gem: [jekyll-octicons](https://rubygems.org/gems/jekyll-octicons)) -- liquid plugin that makes including svg Octicons simple. **Archived**
 - [**Jekyll PIG**](https://github.com/clnhlzmn/jekyll-pig) ★8 (gem: [jekyll-pig](https://rubygems.org/gems/jekyll-pig)) - Uses ImageMagick and pig.js to create progressive image galleries for Jekyll sites.
@@ -136,6 +145,10 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Mentions**](https://github.com/jekyll/jekyll-mentions) ★185 (gem: [jekyll-mentions](https://rubygems.org/gems/jekyll-mentions)) -- @mentionable support for your site  **#Official** **#GitHub Pages**
 - [**Jemoji**](https://github.com/jekyll/jemoji) ★503 (gem: [jemoji](https://rubygems.org/gems/jemoji)) -- GitHub-flavored emoji plugin   **#Official** **#GitHub Pages**
 - [**Time Ago**](https://github.com/markets/jekyll-timeago) ★138 (gem: [jekyll-timeago](https://rubygems.org/gems/jekyll-timeago)) -- Converts a time value to the time ago in words.
+- [**jekyll_time_since**](https://github.com/mslinn/jekyll_time_since)
+(gem: [jekyll_time_since](https://rubygems.org/gems/jekyll_time_since))
+by Mike Slinn &ndash;
+Jekyll plugin that provides new Liquid filters called years_since, months_since, days_since, hours_since, minutes_since and seconds_since.
 - [**Pluralize**](https://github.com/bdesham/pluralize) ★28 (gem: [liquid_pluralize](https://rubygems.org/gems/liquid_pluralize)) by Benjamin Esham -- Easily combine a number and a word into a grammatically-correct amount like “1 minute” or “2 minute**s**”.
 - [**Reading Time**](https://github.com/bdesham/reading_time) ★109 (gem: [liquid_reading_time](https://rubygems.org/gems/liquid_reading_time)) by Benjamin Esham -- Count words and estimate reading time for a piece of text, ignoring HTML elements that are unlikely to contain running text.
 - [**TOC (Table of Contents)**](https://github.com/toshimaru/jekyll-toc) ★260  (gem: [jekyll-toc](https://rubygems.org/gems/jekyll-toc))-- A liquid filter plugin for Jekyll which generates a table of contents.
@@ -145,6 +158,23 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Typogrify**](https://github.com/myles/jekyll-typogrify) ★26 (gem: [jekyll-typogrify](https://rubygems.org/gems/jekyll-typogrify)) by Myles Braithwaite -- A Jekyll plugin that brings the functions of typogruby.
 - [**Email Protect**](https://github.com/vwochnik/jekyll-email-protect) ★75 (gem: [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect)) by Vincent Wochnik -- Email protection liquid filter for Jekyll
 - [**Jekyll Liquify**](https://github.com/gemfarmer/jekyll-liquify) ★25 (gem: [jekyll-liquify](https://rubygems.org/gems/jekyll-liquify)) a filter that parses Liquid from front matter
+- [**jekyll_from_to_until**](https://www.mslinn.com/jekyll_plugins/#jekyll_from_to_until)
+(gem: [jekyll_from_to_until](https://rubygems.org/gems/jekyll_from_to_until))
+by Mike Slinn. &ndash;
+Provides filters that return portions of a multiline string:
+  - `from` – returns the portion beginning with the line that satisfies a regular expression to the end of the multiline string.
+  - `to` – returns the portion from the first line to the line that satisfies a regular expression, including the matched line.
+  - `until` – returns the portion from the first line to the line that satisfies a regular expression, excluding the matched line.
+- [**jekyll_basename_dirname**](https://www.mslinn.com/jekyll_plugins/#basename)
+(gem: [jekyll_basename_dirname](https://rubygems.org/gems/jekyll_basename_dirname))
+by Mike Slinn &ndash;
+Provides filters that return portions of a string:
+`basename`, `dirname` and `basename_without_extension`.
+- [**jekyll_begin_end**](https://www.mslinn.com/jekyll_plugins/#begin_end)
+(gem: [jekyll_begin_end](https://rubygems.org/gems/jekyll_begin_end))
+by Mike Slinn &ndash;
+These filters return portions of a string:
+`begins_with`, `does_not_begin_with`, `ends_with`, `does_not_end_with`, and `append_suffix_if_does_not_start_with`.
 
 
 ## Tags
@@ -167,7 +197,44 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Jekyll Github Chart**](https://github.com/kinduff/jekyll-github-chart) ★4 (gem: [jekyll-github-chart](https://rubygems.org/gems/jekyll-github-chart)) - Plugin to generate an SVG of Github contributions data
 - [**Jekyll Twitch**](https://github.com/chaelcodes/jekyll-twitch) ★6 (gem: [jekyll-twitch](https://rubygems.org/gems/jekyll-twitch)) - Embed Twitch clips, vods, collections, and even broadcasts!
 - [**Jekyll Include**](https://github.com/flant/jekyll_include_plugin) ★12 (gem: [jekyll_include_plugin](https://rubygems.org/gems/jekyll_include_plugin)) - Plugin for including local/remote file contents (or a part of it) into your pages.
+- [**jekyll_flexible_include**](https://www.mslinn.com/jekyll_plugins/#flexibleInclude)
+(gem: [jekyll_flexible_include](https://rubygems.org/gems/jekyll_flexible_include))
+by Mike Slinn. <br>
+Jekyll's built-in include tag does not support including files outside of the `_includes` folder.
+This plugin supports 4 types of includes:
+  - Relative paths.
+  - Absolute paths, with optional security.
+  - Paths relative to the user home directory, with optional security.
+  - Executable commands, with optional security.
+
+  Paths support environment variables expansion.
+Also supports highlighting text matching a regex, and dark mode.
 - [**Glossary Tooltip Tag**](https://github.com/erikw/jekyll-glossary_tooltip) ★7 (gem: [jekyll-glossary_tooltip](https://rubygems.org/gems/jekyll-glossary_tooltip)) by Erik Westrup - A tag for showing a tooltip with glossary term definitions on mouse hover. Common terms are defined in a shared file that can be re-used across all pages.
+- [**jekyll_archive_display**](https://www.mslinn.com/jekyll_plugins/#archiveDisplay)
+(gem: [jekyll_archive_display](https://rubygems.org/gems/jekyll_archive_display))
+by Mike Slinn &ndash;
+Jekyll tag plugin that lists the names and contents of each entry in a `tar` file.
+- [**jekyll_download_link**](https://www.mslinn.com/jekyll_plugins/#archive_create)
+(gem: [jekyll_download_link](https://rubygems.org/gems/jekyll_download_link))
+by Mike Slinn &ndash;
+Generates a link to download a file.
+The path can be absolute or relative to the website.
+- [**jekyll_href**](https://github.com/mslinn/jekyll_href)
+(gem: [jekyll_href](https://rubygems.org/gems/jekyll_href))
+by Mike Slinn. <br>
+This plugin provides a versatile Jekyll tag that generates an a HTML href that defaults to `target="_blank"` and `rel="nofollow"`.
+URLs can contain environment variable references.
+Also provides a convenient way to generate formatted and clickable URIs.
+Features optional automatically-generated soft hyphens.
+The `href` tags in a page can be summarized by the `href_summary` tag.
+- [**jekyll_outline**](https://github.com/mslinn/jekyll_outline)
+(gem: [jekyll_outline](https://rubygems.org/gems/jekyll_outline))
+by Mike Slinn &ndash;
+Organizes the index of a collection into chapters.
+- [**jekyll_pre**](https://github.com/mslinn/jekyll_pre)
+(gem: [jekyll_pre](https://rubygems.org/gems/jekyll_pre))
+by Mike Slinn &ndash;
+Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and incorporating command-line output into documents.
 
 
 ## Search Engine Optimization (SEO) & Redirects
@@ -177,6 +244,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★851 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#Official** **#GitHub Pages**
 - [**Redirect From**](https://github.com/jekyll/jekyll-redirect-from) ★691 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts **#Official** **#GitHub Pages**
 - [**Google Search Console Verification File Generator**](https://github.com/erikw/jekyll-google_search_console_verification_file) ★3 (gem: [jekyll-google_search_console_verification_file](https://rubygems.org/gems/jekyll-google_search_console_verification_file)) by Erik Westrup - A very simple plugin that will generate a Google Search Console [verification file](https://support.google.com/webmasters/answer/9008080?hl=en) to your `_site/` directory in a Jekyll project. This file is used by Google to verify that you own the site and could look for example like `googlef47733b3288357e4.html`.
+
 
 ## Analytics
 
@@ -199,6 +267,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Compose**](https://github.com/jekyll/jekyll-compose) ★540 (gem: [jekyll-compose](https://rubygems.org/gems/jekyll-compose)) -- streamline your writing with these commands  **#Official**
 - [**jekyll-gitlab-letsencrypt**](https://github.com/JustinAiken/jekyll-gitlab-letsencrypt) ★60 (gem: [jekyll-gitlab-letsencrypt](https://rubygems.org/gems/jekyll-gitlab-letsencrypt)) -- Automate letsencrypt requests/renewals for gitlab pages
 
+
 ## Importers
 
 - [**Importers**](https://github.com/jekyll/jekyll-import) ★456 (gem: [jekyll-import](https://rubygems.org/gems/jekyll-import)) -- The "import" command for importing from various blogs   **#Official**
@@ -214,7 +283,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**PWA-Workbox**](https://github.com/souldanger/jekyll-pwa-workbox) ★22 (gem: [jekyll-pwa-workbox](https://rubygems.org/gems/jekyll-pwa-workbox)) -- Makes your PWA/Website available offline using Workbox. Injects a precache list into the service-worker and takes care of the registration process in a secure way.
 - [**Target Blank**](https://github.com/keithmifsud/jekyll-target-blank) ★82 (gem: [jekyll-target-blank](https://rubygems.org/gems/jekyll-target-blank)) -- Automatically adds `target="_blank"` to external links, can add css-classes and/or various `rel=""` attributes.
 - [**Workbox**](https://github.com/bmeurer/jekyll-workbox-plugin) ★14 (gem: [jekyll-workbox-plugin](https://rubygems.org/gems/jekyll-workbox-plugin)) -- Generate Service Worker using Google Workbox.
-- [**Bootstrap 5 Tabs**](https://github.com/mslinn/jekyll_bootstrap5_tabs) ★1 (gem: [jekyll_bootstrap5_tabs](https://rubygems.org/gems/jekyll_bootstrap5_tabs)) -- Enables Bootstrap 5 tabs in Jekyll content.
+- [**Bootstrap 5 Tabs**](https://github.com/mslinn/jekyll_bootstrap5_tabs) (gem: [jekyll_bootstrap5_tabs](https://rubygems.org/gems/jekyll_bootstrap5_tabs)) &ndash; Enables Bootstrap 5 tabs in Jekyll content.
 
 
 ## Assets & Converters & Minifiers
@@ -225,12 +294,44 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Mini Bundle**](https://github.com/tkareine/jekyll-minibundle) ★67 (gem: [jekyll-minibundle](https://rubygems.org/gems/jekyll-minibundle)) -- asset bundling and cache busting using external minification tool of your choice. No gem dependencies.
 - [**Minifier**](https://github.com/digitalsparky/jekyll-minifier) ★232 (gem: [jekyll-minifier](https://rubygems.org/gems/jekyll-minifier)) -- minifies HTML, XML, CSS, and Javascript both inline and as separate files utilising yui-compressor and htmlcompressor.
 - [**Autoprefixer**](https://github.com/vwochnik/jekyll-autoprefixer) ★64 (gem: [jekyll-autoprefixer](https://rubygems.org/gems/jekyll-autoprefixer))  -- autoprefixer integration for Jekyll
+- [**jekyll_archive_create**](https://www.mslinn.com/jekyll_plugins/#archive_create)
+(gem: [jekyll_archive_create](https://rubygems.org/gems/jekyll_archive_create))
+by Mike Slinn &ndash;
+Makes `tar` and `zip` files based on `_config.yml` entries.
 - [**Compass**](https://github.com/mscharley/jekyll-compass) ★57 (gem: [jekyll-compass](https://rubygems.org/gems/jekyll-compass) -- easily integrate Compass and Sass with your site. **Archived**
 
 <!-- new list; use new category for js only converter- why? why not?? -->
 
 - [**Coffeescript**](https://github.com/jekyll/jekyll-coffeescript) ★44 (gem: [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript)) -- a CoffeeScript converter  **#Official**
 - [**Opal**](https://github.com/jekyll/jekyll-opal) ★34 (gem: [jekyll-opal](https://rubygems.org/gems/jekyll-opal)) -- convert your Ruby into JavaScript using Opal  **#Official**
+
+
+## Coding Support for Plugins &amp; Liquid Programming
+
+- [**jekyll_all_collections**](https://github.com/mslinn/jekyll_all_collections)
+(gem: [jekyll_all_collections](https://rubygems.org/gems/jekyll_all_collections))
+by Mike Slinn &ndash; If your Jekyll website has several collections,
+this plugin provides an aggregated collection.
+- [**jekyll_draft**](http://localhost:4001/jekyll/3000-jekyll-plugins.html#draft)
+(gem: [jekyll_draft](https://rubygems.org/gems/jekyll_draft))
+by Mike Slinn &ndash;
+This plugin’s filters provide a simple means for marking draft pages in development mode.
+- [**jekyll_plugin_logger**](https://github.com/mslinn/jekyll_plugin_logger)
+(gem: [jekyll_plugin_logger](https://rubygems.org/gems/jekyll_plugin_logger))
+by Mike Slinn &ndash;
+Colored Jekyll logging for plugins.
+- [**jekyll_plugin_support**](https://github.com/mslinn/jekyll_plugin_support)
+(gem: [jekyll_plugin_support](https://rubygems.org/gems/jekyll_plugin_support))
+by Mike Slinn &ndash;
+Ruby gem that facilitates writing and testing Jekyll plugins.
+- [**jekyll_nth**](https://github.com/mslinn/jekyll_nth)
+(gem: [jekyll_nth](https://rubygems.org/gems/jekyll_nth))
+by Mike Slinn &ndash;
+Liquid filter that returns item `n` of a Ruby array, origin 1.
+- [**jekyll_random_hex**](https://github.com/mslinn/jekyll_random_hex)
+(gem: [jekyll_random_hex](https://rubygems.org/gems/jekyll_random_hex))
+by Mike Slinn &ndash;
+Outputs a string of random hexadecimal characters of any length.
 
 
 ## Authentication & Authorization
