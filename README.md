@@ -117,6 +117,7 @@ flexible resizing, default styling, overridable styling, an optional caption, an
 
 - [**YouTube**](https://github.com/dommmel/jekyll-youtube) ★79 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- a Liquid tag that embeds YouTube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
 - [**Asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★37 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- a tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
+- [**ReactPlayer**](https://github.com/jessp01/jekyll-react-player) (gem: [jekyll-react-player](https://rubygems.org/gems/jekyll-react-player)) -- a tag for embedding react-player supported formats in your Jekyll pages.
 
 
 ## Audios & Podcasts
