@@ -285,6 +285,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Target Blank**](https://github.com/keithmifsud/jekyll-target-blank) ★82 (gem: [jekyll-target-blank](https://rubygems.org/gems/jekyll-target-blank)) -- Automatically adds `target="_blank"` to external links, can add css-classes and/or various `rel=""` attributes.
 - [**Workbox**](https://github.com/bmeurer/jekyll-workbox-plugin) ★14 (gem: [jekyll-workbox-plugin](https://rubygems.org/gems/jekyll-workbox-plugin)) -- Generate Service Worker using Google Workbox.
 - [**Bootstrap 5 Tabs**](https://github.com/mslinn/jekyll_bootstrap5_tabs) (gem: [jekyll_bootstrap5_tabs](https://rubygems.org/gems/jekyll_bootstrap5_tabs)) &ndash; Enables Bootstrap 5 tabs in Jekyll content.
+- [**jekyll-http-request**](https://github.com/ntsd/jekyll-http-request) (gem: [jekyll-http-request](https://rubygems.org/gems/jekyll-http-request)) by Jirawat Boonkumnerd -- Liquid Filter for HTTP requests, helps get HTTP response data to the page content and cache.
 
 
 ## Assets & Converters & Minifiers
