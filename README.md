@@ -259,7 +259,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Git Metadata**](https://github.com/ivantsepp/jekyll-git_metadata) ★67, gem: [jekyll-git_metadata](https://rubygems.org/gems/jekyll-git_metadata)  by Ivan Tse -- expose Git metadata for your templates
 - [**Auto Image**](https://github.com/merlos/jekyll-auto-image) ★77, gem: [jekyll-auto-image](https://rubygems.org/gems/jekyll-auto-image)  by Merlos -- gets the first image of a post; useful to list your posts with images or to add twitter cards to your site
 - [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★8, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
-- [**Premonition**](https://github.com/lazee/premonition) ★38, gem: [premonition](https://rubygems.org/gems/premonition)  by Jakob Vad Nielsen -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
+- [**Premonition**](https://github.com/lazee/premonition) ★49, gem: [premonition](https://rubygems.org/gems/premonition)  by Jakob Vad Nielsen -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
 - [**Jekyll Data Pages Generator**](https://github.com/avillafiorita/jekyll-datapage_gen) ★336, gem: [jekyll-datapage-generator](https://rubygems.org/gems/jekyll-datapage-generator)  by Adolfo Villafiorita -- Allows one to specify data files for which we want to generate one HTML page per record.
 
 
