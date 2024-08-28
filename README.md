@@ -347,6 +347,8 @@ Outputs a string of random hexadecimal characters of any length.
 
 - [**Manager**](https://github.com/ashmaroli/jekyll-manager) ★51 (gem: [jekyll-manager](https://rubygems.org/gems/jekyll-manager)) by Ashwin Maroli -- An administrative framework for Jekyll sites, Jekyll Manager is essentially Jekyll Admin repackaged with some alterations.
 
+- [**Notion Fetch**](https://github.com/seroperson/jekyll-fetch-notion) ★4 (gem: [jekyll-fetch-notion](https://rubygems.org/gems/jekyll-fetch-notion)) -- Makes it easy to manage your website content using Notion (git-based approach).
+
 
 ## Watch & Live Reload
 
