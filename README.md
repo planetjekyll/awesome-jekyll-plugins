@@ -286,6 +286,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Workbox**](https://github.com/bmeurer/jekyll-workbox-plugin) ★14 (gem: [jekyll-workbox-plugin](https://rubygems.org/gems/jekyll-workbox-plugin)) -- Generate Service Worker using Google Workbox.
 - [**Bootstrap 5 Tabs**](https://github.com/mslinn/jekyll_bootstrap5_tabs) (gem: [jekyll_bootstrap5_tabs](https://rubygems.org/gems/jekyll_bootstrap5_tabs)) &ndash; Enables Bootstrap 5 tabs in Jekyll content.
 - [**jekyll-http-request**](https://github.com/ntsd/jekyll-http-request) (gem: [jekyll-http-request](https://rubygems.org/gems/jekyll-http-request)) by Jirawat Boonkumnerd -- Liquid Filter for HTTP requests, helps get HTTP response data to the page content and cache.
+- [**jekyll-turbo**](https://github.com/maikhel/jekyll-turbo) (gem: [jekyll-turbo](https://rubygems.org/gems/jekyll-turbo)) -- Enable Hotwire Turbo Drive and Turbo Frames on your Jekyll site. 🔥
 
 
 ## Assets & Converters & Minifiers
