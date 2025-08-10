@@ -261,7 +261,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★8, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
 - [**Premonition**](https://github.com/lazee/premonition) ★49, gem: [premonition](https://rubygems.org/gems/premonition)  by Jakob Vad Nielsen -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
 - [**Jekyll Data Pages Generator**](https://github.com/avillafiorita/jekyll-datapage_gen) ★336, gem: [jekyll-datapage-generator](https://rubygems.org/gems/jekyll-datapage-generator)  by Adolfo Villafiorita -- Allows one to specify data files for which we want to generate one HTML page per record.
-
+- [**Jekyll SQLite**](https://github.com/captn3m0/jekyll-sqlite/) ★204, (gem: [jekyll-sqlite](https://rubygems.org/gems/jekyll-sqlite)) by Nemo -- use SQLite databases instead of Data Files as a data source.
 
 ## Commands & Switches
 
