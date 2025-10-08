@@ -45,7 +45,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Search
 
-- [**Algolia**](https://github.com/algolia/jekyll-algolia) ★185 (gem: [jekyll-algolia](https://rubygems.org/gems/jekyll-algolia/))  --  Add fast and relevant search to your Jekyll site using the Algolia API.
+- [**Algolia**](https://github.com/algolia/jekyll-algolia) ★185 (gem: [jekyll-algolia](https://rubygems.org/gems/jekyll-algolia/))  --  Add fast and relevant search to your Jekyll site using the Algolia API. **Deprecated**
 - [**Searchyll**](https://github.com/omc/searchyll) ★43 (gem: [searchyll](https://rubygems.org/gems/searchyll/)) - Index your Jekyll pages to Elasticsearch, and works with Github pages.
 
 <!-- add search gems here -->
