@@ -276,6 +276,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 
 ## Other
 
+- [**AI Domain Data**](https://github.com/ai-domain-data/jekyll-ai-domain-data) (gem: [jekyll-ai-domain-data](https://rubygems.org/gems/jekyll-ai-domain-data)) -- Automatically generates AI Domain Data Standard domain-profile.json files for AI systems, search engines, and automated agents
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★215 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`   **#Official** **#GitHub Pages**
 - [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★381 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
 - [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★22 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines. **Archived**
