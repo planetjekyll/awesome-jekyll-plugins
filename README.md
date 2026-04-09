@@ -245,6 +245,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Sitemap Generator**](https://github.com/jekyll/jekyll-sitemap) ★851 (gem: [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap)) -- a plugin to silently generate a sitemaps.org compliant sitemap for your site  **#Official** **#GitHub Pages**
 - [**Redirect From**](https://github.com/jekyll/jekyll-redirect-from) ★691 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts **#Official** **#GitHub Pages**
 - [**Google Search Console Verification File Generator**](https://github.com/erikw/jekyll-google_search_console_verification_file) ★3 (gem: [jekyll-google_search_console_verification_file](https://rubygems.org/gems/jekyll-google_search_console_verification_file)) by Erik Westrup - A very simple plugin that will generate a Google Search Console [verification file](https://support.google.com/webmasters/answer/9008080?hl=en) to your `_site/` directory in a Jekyll project. This file is used by Google to verify that you own the site and could look for example like `googlef47733b3288357e4.html`.
+- [**AI Visible Content**](https://github.com/madmatvey/jekyll-ai-visible-content) (gem: [jekyll-ai-visible-content](https://rubygems.org/gems/jekyll-ai-visible-content)) by madmatvey -- A Jekyll plugin gem that maximizes your site's discoverability by AI search systems (ChatGPT, Perplexity, Google AI Overviews, Claude).
 
 
 ## Analytics
