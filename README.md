@@ -10,7 +10,7 @@ Awesome Series @ Planet Jekyll
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A collection of awesome Jekyll plugins adding converters, generators, filters & tags,
+A collection of awesome Jekyll plugins adding converters, tags, filters & tags,
 importers, new commands & switches, and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
@@ -236,6 +236,7 @@ Organizes the index of a collection into chapters.
 (gem: [jekyll_pre](https://rubygems.org/gems/jekyll_pre))
 by Mike Slinn &ndash;
 Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and incorporating command-line output into documents.
+- [**Jekyll Series Links**](https://github.com/ahalbert/jekyll-series-links), (gem: [jekyll-series-links](https://rubygems.org/search?query=jekyll-series-links)) by Armand Halbert -- Liquid tag that allows you to generate a table of contents for multi-part post series.
 
 
 ## Search Engine Optimization (SEO) & Redirects
@@ -262,7 +263,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Umlauts**](https://github.com/webchef/jekyll-umlauts) ★8, gem: [jekyll-umlauts](https://rubygems.org/gems/jekyll-umlauts)  by Arne Gockeln -- this generator replaces all german umlauts (äöüß) case sensitive with html
 - [**Premonition**](https://github.com/lazee/premonition) ★49, gem: [premonition](https://rubygems.org/gems/premonition)  by Jakob Vad Nielsen -- Converts blockquotes into customizable styled markup blocks, like notes or warnings.
 - [**Jekyll Data Pages Generator**](https://github.com/avillafiorita/jekyll-datapage_gen) ★336, gem: [jekyll-datapage-generator](https://rubygems.org/gems/jekyll-datapage-generator)  by Adolfo Villafiorita -- Allows one to specify data files for which we want to generate one HTML page per record.
-- [**Jekyll SQLite**](https://github.com/captn3m0/jekyll-sqlite/) ★204, (gem: [jekyll-sqlite](https://rubygems.org/gems/jekyll-sqlite)) by Nemo -- use SQLite databases instead of Data Files as a data source.
+- [**Jekyll SQLite**](https://github.com/captn3m0/jekyll-sqlite/) ★204, (gem: [jekyll-sqlite](https://rubygems.org/gems/jekyll-sqlite)) by Nemo -- use SQLite databases instead of Data Files as a data source.  
 
 ## Commands & Switches
 
