@@ -236,7 +236,7 @@ Organizes the index of a collection into chapters.
 (gem: [jekyll_pre](https://rubygems.org/gems/jekyll_pre))
 by Mike Slinn &ndash;
 Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and incorporating command-line output into documents.
-- [**Jekyll Series Links**](https://github.com/ahalbert/jekyll-series-links), (gem: [jekyll-series-links](https://rubygems.org/search?query=jekyll-series-links)) by Armand Halbert -- Liquid tag that allows you to generate a table of contents for multi-part post series.
+- [**Jekyll Series Links**](https://github.com/ahalbert/jekyll-series-links), (gem: [jekyll-series-links](https://rubygems.org/search?query=jekyll-series-links)) by Armand Halbert – Liquid tag that allows you to generate a table of contents for multi-part post series.
 
 
 ## Search Engine Optimization (SEO) & Redirects
