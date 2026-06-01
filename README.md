@@ -254,6 +254,11 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Analytics**](https://github.com/hendrik91/jekyll-analytics) ★191 (gem: [jekyll-analytics](https://rubygems.org/gems/jekyll-analytics)) by Hendrik Schneider -- adds webtracking easily to your site; supports multiple trackers like Google Analytics, Piwik, etc.
 
 
+## Comments
+
+- [**FastComments**](https://github.com/FastComments/fastcomments-jekyll) (gem: [fastcomments-jekyll](https://rubygems.org/gems/fastcomments-jekyll)) by FastComments -- Liquid tags for embedding FastComments live commenting, chat, and review widgets.
+
+
 ## Generators
 
 - [**Emoji**](https://github.com/yihangho/emoji-for-jekyll) ★85, gem: [emoji_for_jekyll](https://rubygems.org/gems/emoji_for_jekyll) -- seamlessly enable emoji for all posts and pages
