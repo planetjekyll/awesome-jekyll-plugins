@@ -237,6 +237,7 @@ Organizes the index of a collection into chapters.
 by Mike Slinn &ndash;
 Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and incorporating command-line output into documents.
 - [**Jekyll Series Links**](https://github.com/ahalbert/jekyll-series-links), (gem: [jekyll-series-links](https://rubygems.org/search?query=jekyll-series-links)) by Armand Halbert – Liquid tag that allows you to generate a table of contents for multi-part post series.
+- [**FastComments**](https://github.com/FastComments/fastcomments-jekyll) ★0 (gem: [fastcomments-jekyll](https://rubygems.org/gems/fastcomments-jekyll)) by FastComments -- Liquid tags for embedding FastComments live commenting, chat, and review widgets.
 
 
 ## Search Engine Optimization (SEO) & Redirects
