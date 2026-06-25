@@ -49,7 +49,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Searchyll**](https://github.com/omc/searchyll) ★43 (gem: [searchyll](https://rubygems.org/gems/searchyll/)) - Index your Jekyll pages to Elasticsearch, and works with Github pages.
 
 <!-- add search gems here -->
-
+- [**Pagefind**](https://github.com/phothinmg/jekykll-pagefind) ★1 (gem: [jekyll-pagefind](https://rubygems.org/gems/jekyll-pagefind/)) -- Run pagefind binary in jekyll site
 
 ## Feeds & Syndication
 
