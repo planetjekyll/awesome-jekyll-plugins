@@ -139,6 +139,7 @@ flexible resizing, default styling, overridable styling, an optional caption, an
 - [**Commonmark**](https://github.com/pathawks/jekyll-commonmark) ★29, gem: [jekyll-commonmark](https://rubygems.org/gems/jekyll-commonmark) -- Markdown converter that uses libcmark, the reference parser for CommonMark.
 - [**Textile**](https://github.com/jekyll/jekyll-textile-converter) ★15 (gem: [jekyll-textile-converter](https://rubygems.org/gems/jekyll-textile-converter)) -- convert `.textile` files into HTML; also includes the `textilize` Liquid filter  **#Official**
 - [**Jektex**](https://github.com/yagarea/jektex) ★40, gem: [jektex](https://rubygems.org/gems/jektex) -- Jekyll plugin for blazing fast server side cached LaTeX rendering with support of macros. Enjoy comfort of latex and markdown without cluttering your site with bloated javascript.
+- [**Carve**](https://github.com/markup-carve/jekyll-carve) ★1, gem: [jekyll-carve](https://rubygems.org/gems/jekyll-carve) -- convert `.crv` files into HTML; Carve is a post-Markdown markup language
 
 
 ## Text Filters
