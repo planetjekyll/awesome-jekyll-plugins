@@ -132,6 +132,8 @@ flexible resizing, default styling, overridable styling, an optional caption, an
 
 - [**Geocode**](https://github.com/bertrandkeller/jekyll-geocode) ★11 (gem: [jekyll-geocode](https://rubygems.org/gems/jekyll-geocode)) by Bertrand Keller -- geo-encode addresses from a datafile for drawing maps
 - [**Maps**](https://github.com/ayastreb/jekyll-maps) ★123 (gem: [jekyll-maps](https://rubygems.org/gems/jekyll-maps)) by Anatoliy Yastreb -- embed maps with filterable locations
+- [**jekyll-map**](https://github.com/jchance/jekyll-map) (gem: [jekyll-map](https://rubygems.org/gems/jekyll-map)) by Jason Chance -- a Liquid tag for embedding static map images from Mapbox or Google Static Maps with no JavaScript required; supports address-string geocoding with build-time caching.
+- [**jekyll-streetview**](https://github.com/jchance/jekyll-streetview) (gem: [jekyll-streetview](https://rubygems.org/gems/jekyll-streetview)) by Jason Chance -- a Liquid tag for embedding Google Street View static images; supports address-string geocoding with build-time caching.
 
 
 ## Markup & Markdown Converters
@@ -241,6 +243,7 @@ Organizes the index of a collection into chapters.
 by Mike Slinn &ndash;
 Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and incorporating command-line output into documents.
 - [**Jekyll Series Links**](https://github.com/ahalbert/jekyll-series-links), (gem: [jekyll-series-links](https://rubygems.org/search?query=jekyll-series-links)) by Armand Halbert – Liquid tag that allows you to generate a table of contents for multi-part post series.
+- [**jekyll-callout**](https://github.com/jchance/jekyll-callout) (gem: [jekyll-callout](https://rubygems.org/gems/jekyll-callout)) by Jason Chance -- a block tag for rendering styled callout/admonition boxes (note, tip, warning, danger, info) with full Markdown support inside the body.
 
 
 ## Search Engine Optimization (SEO) & Redirects
