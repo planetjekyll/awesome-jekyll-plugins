@@ -118,6 +118,7 @@ flexible resizing, default styling, overridable styling, an optional caption, an
 - [**YouTube**](https://github.com/dommmel/jekyll-youtube) ★79 (gem: [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube)) -- a Liquid tag that embeds YouTube videos. The default emded markup is responsive but you can also specify your own by using an include/partial.
 - [**Asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★37 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- a tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
 - [**ReactPlayer**](https://github.com/jessp01/jekyll-react-player) [![Gem Version](https://img.shields.io/gem/dt/jekyll-react-player.svg)](https://rubygems.org/gems/jekyll-react-player) [![Gem Version](https://badge.fury.io/rb/jekyll-react-player.svg)](https://badge.fury.io/rb/jekyll-react-player) -- a tag for embedding react-player supported formats in your Jekyll pages.
+- [**Livid**](https://github.com/jchance/jekyll-livid) (gem: [jekyll-livid](https://rubygems.org/gems/jekyll-livid)) by Jason Chance -- a Liquid tag for embedding Livid-hosted videos with a responsive iframe wrapper and full support for advanced embedding parameters.
 
 
 ## Audios & Podcasts
@@ -248,6 +249,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Redirect From**](https://github.com/jekyll/jekyll-redirect-from) ★691 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts **#Official** **#GitHub Pages**
 - [**Google Search Console Verification File Generator**](https://github.com/erikw/jekyll-google_search_console_verification_file) ★3 (gem: [jekyll-google_search_console_verification_file](https://rubygems.org/gems/jekyll-google_search_console_verification_file)) by Erik Westrup - A very simple plugin that will generate a Google Search Console [verification file](https://support.google.com/webmasters/answer/9008080?hl=en) to your `_site/` directory in a Jekyll project. This file is used by Google to verify that you own the site and could look for example like `googlef47733b3288357e4.html`.
 - [**AI Visible Content**](https://github.com/madmatvey/jekyll-ai-visible-content) (gem: [jekyll-ai-visible-content](https://rubygems.org/gems/jekyll-ai-visible-content)) by madmatvey -- A Jekyll plugin gem that maximizes your site's discoverability by AI search systems (ChatGPT, Perplexity, Google AI Overviews, Claude).
+- [**Structured Content**](https://github.com/jchance/jekyll-structured-content) (gem: [jekyll-structured-content](https://rubygems.org/gems/jekyll-structured-content)) by Jason Chance -- emits FAQPage, BlogPosting, WebPage, ProfilePage, and CreativeWork JSON-LD structured data from Jekyll frontmatter without touching theme markup.
 
 
 ## Analytics
