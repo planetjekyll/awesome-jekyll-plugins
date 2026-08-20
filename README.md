@@ -119,6 +119,8 @@ flexible resizing, default styling, overridable styling, an optional caption, an
 - [**Asciinema**](https://github.com/mnuessler/jekyll-asciinema) ★37 (gem: [jekyll-asciinema](https://rubygems.org/gems/jekyll-asciinema)) -- a tag for embedding asciicasts recorded with asciinema in your Jekyll pages.
 - [**ReactPlayer**](https://github.com/jessp01/jekyll-react-player) [![Gem Version](https://img.shields.io/gem/dt/jekyll-react-player.svg)](https://rubygems.org/gems/jekyll-react-player) [![Gem Version](https://badge.fury.io/rb/jekyll-react-player.svg)](https://badge.fury.io/rb/jekyll-react-player) -- a tag for embedding react-player supported formats in your Jekyll pages.
 - [**Livid**](https://github.com/jchance/jekyll-livid) (gem: [jekyll-livid](https://rubygems.org/gems/jekyll-livid)) by Jason Chance -- a Liquid tag for embedding Livid-hosted videos with a responsive iframe wrapper and full support for advanced embedding parameters.
+- [**Mux**](https://github.com/jchance/jekyll-mux) (gem: [jekyll-mux](https://rubygems.org/gems/jekyll-mux)) by Jason Chance -- a Liquid tag for embedding Mux-hosted videos with a responsive iframe wrapper and support for Mux Player embed parameters.
+- [**Bunny Stream**](https://github.com/jchance/jekyll-bunny) (gem: [jekyll-bunny](https://rubygems.org/gems/jekyll-bunny)) by Jason Chance -- a Liquid tag for embedding Bunny Stream videos with a responsive iframe wrapper and support for Bunny Stream embed parameters.
 
 
 ## Audios & Podcasts
