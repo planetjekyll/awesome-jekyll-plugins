@@ -22,6 +22,7 @@ importers, new commands & switches, and more.
 ## Documentation
 
 See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
+- [**jekyll-changelog**](https://github.com/jchance/jekyll-changelog) (gem: [jekyll-changelog](https://rubygems.org/gems/jekyll-changelog)) by Jason Chance -- Auto-generated changelog from git commits for Jekyll.
 
 
 ## Settings & Configurations Tweaks
@@ -186,6 +187,7 @@ These filters return portions of a string:
 
 ## Tags
 
+- [**jekyll-better-related**](https://github.com/jchance/jekyll-better-related) (gem: [jekyll-better-related](https://rubygems.org/gems/jekyll-better-related)) by Jason Chance -- Improved related posts generation for Jekyll with relevance scoring.
 - [**Gist**](https://github.com/jekyll/jekyll-gist) ★234 (gem: [jekyll-gist](https://rubygems.org/gems/jekyll-gist)) -- Liquid tag for displaying GitHub Gists   **#Official** **#GitHub Pages**
 - [**Twitter**](https://github.com/rob-murray/jekyll-twitter-plugin) ★225 (gem: [jekyll-twitter-plugin](https://rubygems.org/gems/jekyll-twitter-plugin)) by Robert Murray -- A Liquid tag plugin that renders Tweets from Twitter API. Currently supports the oEmbed API.
 - [**Content Blocks**](https://github.com/rustygeldmacher/jekyll-contentblocks) ★144 (gem: [jekyll-contentblocks](https://rubygems.org/gems/jekyll-contentblocks)) by Rusty Geldmacher  -- Lets you use Rails-like content_for tags in your templates, for passing content from your posts up to your layouts.
@@ -254,7 +256,9 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Redirect From**](https://github.com/jekyll/jekyll-redirect-from) ★691 (gem: [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from)) -- seamlessly specify multiple redirections URLs for your pages and posts **#Official** **#GitHub Pages**
 - [**Google Search Console Verification File Generator**](https://github.com/erikw/jekyll-google_search_console_verification_file) ★3 (gem: [jekyll-google_search_console_verification_file](https://rubygems.org/gems/jekyll-google_search_console_verification_file)) by Erik Westrup - A very simple plugin that will generate a Google Search Console [verification file](https://support.google.com/webmasters/answer/9008080?hl=en) to your `_site/` directory in a Jekyll project. This file is used by Google to verify that you own the site and could look for example like `googlef47733b3288357e4.html`.
 - [**AI Visible Content**](https://github.com/madmatvey/jekyll-ai-visible-content) (gem: [jekyll-ai-visible-content](https://rubygems.org/gems/jekyll-ai-visible-content)) by madmatvey -- A Jekyll plugin gem that maximizes your site's discoverability by AI search systems (ChatGPT, Perplexity, Google AI Overviews, Claude).
+- [**jekyll-opengraph-image**](https://github.com/jchance/jekyll-opengraph-image) (gem: [jekyll-opengraph-image](https://rubygems.org/gems/jekyll-opengraph-image)) by Jason Chance -- Generate dynamic Open Graph images for Jekyll posts.
 - [**LLMs.txt**](https://github.com/jchance/jekyll-llms-txt) (gem: [jekyll-llms-txt](https://rubygems.org/gems/jekyll-llms-txt)) by Jason Chance -- automatically generates a standards-compliant `/llms.txt` file from your site's posts, collections, and pages so AI language models can efficiently discover your content.
+- [**jekyll-social-share**](https://github.com/jchance/jekyll-social-share) (gem: [jekyll-social-share](https://rubygems.org/gems/jekyll-social-share)) by Jason Chance -- Social sharing buttons for Jekyll with 18 platforms and inline SVG icons, no external dependencies.
 - [**Structured Content**](https://github.com/jchance/jekyll-structured-content) (gem: [jekyll-structured-content](https://rubygems.org/gems/jekyll-structured-content)) by Jason Chance -- emits FAQPage, BlogPosting, WebPage, ProfilePage, and CreativeWork JSON-LD structured data from Jekyll frontmatter without touching theme markup.
 
 
@@ -266,6 +270,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 ## Comments
 
 - [**FastComments**](https://github.com/FastComments/fastcomments-jekyll) (gem: [fastcomments-jekyll](https://rubygems.org/gems/fastcomments-jekyll)) by FastComments -- Liquid tags for embedding FastComments live commenting, chat, and review widgets.
+- [**jekyll-webmentions-static**](https://github.com/jchance/jekyll-webmentions-static) (gem: [jekyll-webmentions-static](https://rubygems.org/gems/jekyll-webmentions-static)) by Jason Chance -- Static webmention collection and rendering for Jekyll.
 
 
 ## Generators
