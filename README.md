@@ -106,6 +106,7 @@ by Mike Slinn &ndash; Formats quotes with an optional citation and link in a Jek
 by Mike Slinn. &ndash;
 This versatile plugin embeds responsive images using the &lt;picture&gt; element in documents and pages with alignment options,
 flexible resizing, default styling, overridable styling, an optional caption, and an optional URL.
+- [**jekyll-before-after**](https://github.com/jchance/jekyll-before-after) (gem: [jekyll-before-after](https://rubygems.org/gems/jekyll-before-after)) by Jason Chance -- a tag for drag-to-reveal image comparison sliders with horizontal and vertical orientations, keyboard and pointer support, and no JavaScript dependencies.
 
 
 ## Bundled Icons / Images
@@ -246,6 +247,7 @@ by Mike Slinn &ndash;
 Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and incorporating command-line output into documents.
 - [**Jekyll Series Links**](https://github.com/ahalbert/jekyll-series-links), (gem: [jekyll-series-links](https://rubygems.org/search?query=jekyll-series-links)) by Armand Halbert – Liquid tag that allows you to generate a table of contents for multi-part post series.
 - [**jekyll-callout**](https://github.com/jchance/jekyll-callout) (gem: [jekyll-callout](https://rubygems.org/gems/jekyll-callout)) by Jason Chance -- a block tag for rendering styled callout/admonition boxes (note, tip, warning, danger, info) with full Markdown support inside the body.
+- [**jekyll-timeline**](https://github.com/jchance/jekyll-timeline) (gem: [jekyll-timeline](https://rubygems.org/gems/jekyll-timeline)) by Jason Chance -- a block tag for rendering styled vertical timelines with icon support, flexible date formatting, and per-event customization.
 
 
 ## Search Engine Optimization (SEO) & Redirects
