@@ -248,6 +248,7 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**Jekyll Series Links**](https://github.com/ahalbert/jekyll-series-links), (gem: [jekyll-series-links](https://rubygems.org/search?query=jekyll-series-links)) by Armand Halbert – Liquid tag that allows you to generate a table of contents for multi-part post series.
 - [**jekyll-callout**](https://github.com/jchance/jekyll-callout) (gem: [jekyll-callout](https://rubygems.org/gems/jekyll-callout)) by Jason Chance -- a block tag for rendering styled callout/admonition boxes (note, tip, warning, danger, info) with full Markdown support inside the body.
 - [**jekyll-timeline**](https://github.com/jchance/jekyll-timeline) (gem: [jekyll-timeline](https://rubygems.org/gems/jekyll-timeline)) by Jason Chance -- a block tag for rendering styled vertical timelines with icon support, flexible date formatting, and per-event customization.
+- [**jekyll-color-copy-tag**](https://github.com/jchance/jekyll-color-copy-tag) (gem: [jekyll-color-copy-tag](https://rubygems.org/gems/jekyll-color-copy-tag)) by Jason Chance -- a tag for rendering color swatches with copy-to-clipboard functionality using inline SVG, with no JavaScript dependencies.
 
 
 ## Search Engine Optimization (SEO) & Redirects
