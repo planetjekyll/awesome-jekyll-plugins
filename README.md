@@ -274,6 +274,8 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 
 - [**FastComments**](https://github.com/FastComments/fastcomments-jekyll) (gem: [fastcomments-jekyll](https://rubygems.org/gems/fastcomments-jekyll)) by FastComments -- Liquid tags for embedding FastComments live commenting, chat, and review widgets.
 - [**jekyll-webmentions-static**](https://github.com/jchance/jekyll-webmentions-static) (gem: [jekyll-webmentions-static](https://rubygems.org/gems/jekyll-webmentions-static)) by Jason Chance -- Static webmention collection and rendering for Jekyll.
+- [**DeskCrew**](https://github.com/webmilmind1/jekyll-deskcrew) (gem: [jekyll-deskcrew](https://rubygems.org/gems/jekyll-deskcrew)) by DeskCrew -- Live chat, AI support chatbot and help center on every page and post, configured from _config.yml; unanswered questions become tickets a human approves.
+
 
 
 ## Generators
