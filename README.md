@@ -263,6 +263,8 @@ Jekyll tags for HTML &lt;pre/&gt;; copy content button, unselectable text, and i
 - [**LLMs.txt**](https://github.com/jchance/jekyll-llms-txt) (gem: [jekyll-llms-txt](https://rubygems.org/gems/jekyll-llms-txt)) by Jason Chance -- automatically generates a standards-compliant `/llms.txt` file from your site's posts, collections, and pages so AI language models can efficiently discover your content.
 - [**jekyll-social-share**](https://github.com/jchance/jekyll-social-share) (gem: [jekyll-social-share](https://rubygems.org/gems/jekyll-social-share)) by Jason Chance -- Social sharing buttons for Jekyll with 18 platforms and inline SVG icons, no external dependencies.
 - [**Structured Content**](https://github.com/jchance/jekyll-structured-content) (gem: [jekyll-structured-content](https://rubygems.org/gems/jekyll-structured-content)) by Jason Chance -- emits FAQPage, BlogPosting, WebPage, ProfilePage, and CreativeWork JSON-LD structured data from Jekyll frontmatter without touching theme markup.
+- [**LLMs Output**](https://github.com/abhinavs/jekyll-llms-output) (gem: [jekyll-llms-output](https://rubygems.org/gems/jekyll-llms-output)) by Abhinav Saxena -- generates `/llms.txt` and `/llms-full.txt` for your site, hand-curated via `_data/llms.yml` or auto-generated from your collections.
+- [**Markdown Output**](https://github.com/abhinavs/jekyll-markdown-output) (gem: [jekyll-markdown-output](https://rubygems.org/gems/jekyll-markdown-output)) by Abhinav Saxena -- emits a clean `.md` sibling for every post so AI agents and crawlers can fetch Markdown instead of parsing HTML.
 
 
 ## Analytics
