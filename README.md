@@ -56,6 +56,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 - [**Feed**](https://github.com/jekyll/jekyll-feed) ★197 (gem: [jekyll-feed](https://rubygems.org/gems/jekyll-feed)) -- a plugin to generate an Atom (RSS-like) feed of your posts   **#Official** **#GitHub Pages**
 - [**Planet**](https://github.com/feedreader/jekyll-planet) ★2 (gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) -- add articles, blogs to your site via web feeds (and planet pluto)
+- [**DEV Community Cross-Posting**](https://github.com/JuanVqz/jekyll-devto) (gem: [jekyll-devto](https://rubygems.org/gems/jekyll-devto)) by Juan Vásquez -- generates a full-content feed for dev.to's RSS import (code blocks without Rouge line numbers and with their language, absolute links) and publishes the imported drafts once each post is live on your site
 
 
 ## Bibliography & Citiations
