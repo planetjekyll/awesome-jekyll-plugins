@@ -124,6 +124,7 @@ flexible resizing, default styling, overridable styling, an optional caption, an
 - [**Livid**](https://github.com/jchance/jekyll-livid) (gem: [jekyll-livid](https://rubygems.org/gems/jekyll-livid)) by Jason Chance -- a Liquid tag for embedding Livid-hosted videos with a responsive iframe wrapper and full support for advanced embedding parameters.
 - [**Mux**](https://github.com/jchance/jekyll-mux) (gem: [jekyll-mux](https://rubygems.org/gems/jekyll-mux)) by Jason Chance -- a Liquid tag for embedding Mux-hosted videos with a responsive iframe wrapper and support for Mux Player embed parameters.
 - [**Bunny Stream**](https://github.com/jchance/jekyll-bunny) (gem: [jekyll-bunny](https://rubygems.org/gems/jekyll-bunny)) by Jason Chance -- a Liquid tag for embedding Bunny Stream videos with a responsive iframe wrapper and support for Bunny Stream embed parameters.
+- [**Trecs**](https://github.com/solworktech/jekyll-trecs)[![Gem Downloads](https://img.shields.io/gem/dt/jekyll-trecs.svg)](https://rubygems.org/gems/jekyll-trecs) -- a tag for embedding [trecs recordings](https://trecs.run) in your Jekyll pages.
 
 
 ## Audios & Podcasts
