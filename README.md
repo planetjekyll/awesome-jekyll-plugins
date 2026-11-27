@@ -381,6 +381,7 @@ Outputs a string of random hexadecimal characters of any length.
 
 - [**Notion Fetch**](https://github.com/seroperson/jekyll-fetch-notion) ★4 (gem: [jekyll-fetch-notion](https://rubygems.org/gems/jekyll-fetch-notion)) -- Makes it easy to manage your website content using Notion (git-based approach).
 
+- [**Robin CMS**](https://codeberg.org/evencuriouser/robin_cms) (gem: [robin_cms](https://rubygems.org/gems/robin_cms)) -- A simple, open-source CMS for Jekyll sites. Developers define the content schema which lets clients and non-technical users manage content themselves.
 
 ## Watch & Live Reload
 
